@@ -1,0 +1,368 @@
+{
+  "usa": {
+    "kicker01Standing": "../soccer-common/images/usa/usaKicker01Standing_svg.ts",
+    "kicker01PoisedToKick": "../soccer-common/images/usa/usaKicker01PoisedToKick_svg.ts",
+    "kicker01Kicking": "../soccer-common/images/usa/usaKicker01Kicking_svg.ts",
+
+    "kicker02Standing": "../soccer-common/images/usa/usaKicker02Standing_svg.ts",
+    "kicker02PoisedToKick": "../soccer-common/images/usa/usaKicker02PoisedToKick_svg.ts",
+    "kicker02Kicking": "../soccer-common/images/usa/usaKicker02Kicking_svg.ts",
+
+    "kicker03Standing": "../soccer-common/images/usa/usaKicker03Standing_svg.ts",
+    "kicker03PoisedToKick": "../soccer-common/images/usa/usaKicker03PoisedToKick_svg.ts",
+    "kicker03Kicking": "../soccer-common/images/usa/usaKicker03Kicking_svg.ts",
+
+    "kicker04Standing": "../soccer-common/images/usa/usaKicker04Standing_svg.ts",
+    "kicker04PoisedToKick": "../soccer-common/images/usa/usaKicker04PoisedToKick_svg.ts",
+    "kicker04Kicking": "../soccer-common/images/usa/usaKicker04Kicking_svg.ts",
+
+    "kicker05Standing": "../soccer-common/images/usa/usaKicker05Standing_svg.ts",
+    "kicker05PoisedToKick": "../soccer-common/images/usa/usaKicker05PoisedToKick_svg.ts",
+    "kicker05Kicking": "../soccer-common/images/usa/usaKicker05Kicking_svg.ts",
+
+    "kicker06Standing": "../soccer-common/images/usa/usaKicker06Standing_svg.ts",
+    "kicker06PoisedToKick": "../soccer-common/images/usa/usaKicker06PoisedToKick_svg.ts",
+    "kicker06Kicking": "../soccer-common/images/usa/usaKicker06Kicking_svg.ts",
+
+    "kicker07Standing": "../soccer-common/images/usa/usaKicker07Standing_svg.ts",
+    "kicker07PoisedToKick": "../soccer-common/images/usa/usaKicker07PoisedToKick_svg.ts",
+    "kicker07Kicking": "../soccer-common/images/usa/usaKicker07Kicking_svg.ts",
+
+    "kicker08Standing": "../soccer-common/images/usa/usaKicker08Standing_svg.ts",
+    "kicker08PoisedToKick": "../soccer-common/images/usa/usaKicker08PoisedToKick_svg.ts",
+    "kicker08Kicking": "../soccer-common/images/usa/usaKicker08Kicking_svg.ts",
+
+    "kicker09Standing": "../soccer-common/images/usa/usaKicker09Standing_svg.ts",
+    "kicker09PoisedToKick": "../soccer-common/images/usa/usaKicker09PoisedToKick_svg.ts",
+    "kicker09Kicking": "../soccer-common/images/usa/usaKicker09Kicking_svg.ts",
+
+    "kicker10Standing": "../soccer-common/images/usa/usaKicker10Standing_svg.ts",
+    "kicker10PoisedToKick": "../soccer-common/images/usa/usaKicker10PoisedToKick_svg.ts",
+    "kicker10Kicking": "../soccer-common/images/usa/usaKicker10Kicking_svg.ts",
+
+    "kicker11Standing": "../soccer-common/images/usa/usaKicker11Standing_svg.ts",
+    "kicker11PoisedToKick": "../soccer-common/images/usa/usaKicker11PoisedToKick_svg.ts",
+    "kicker11Kicking": "../soccer-common/images/usa/usaKicker11Kicking_svg.ts",
+
+    "kicker12Standing": "../soccer-common/images/usa/usaKicker12Standing_svg.ts",
+    "kicker12PoisedToKick": "../soccer-common/images/usa/usaKicker12PoisedToKick_svg.ts",
+    "kicker12Kicking": "../soccer-common/images/usa/usaKicker12Kicking_svg.ts",
+
+    "kicker13Standing": "../soccer-common/images/usa/usaKicker13Standing_svg.ts",
+    "kicker13PoisedToKick": "../soccer-common/images/usa/usaKicker13PoisedToKick_svg.ts",
+    "kicker13Kicking": "../soccer-common/images/usa/usaKicker13Kicking_svg.ts",
+
+    "kicker14Standing": "../soccer-common/images/usa/usaKicker14Standing_svg.ts",
+    "kicker14PoisedToKick": "../soccer-common/images/usa/usaKicker14PoisedToKick_svg.ts",
+    "kicker14Kicking": "../soccer-common/images/usa/usaKicker14Kicking_svg.ts",
+
+    "kicker15Standing": "../soccer-common/images/usa/usaKicker15Standing_svg.ts",
+    "kicker15PoisedToKick": "../soccer-common/images/usa/usaKicker15PoisedToKick_svg.ts",
+    "kicker15Kicking": "../soccer-common/images/usa/usaKicker15Kicking_svg.ts"
+  },
+  "africa": {
+    "kicker01Standing": "../soccer-common/images/africa/africaKicker01Standing_svg.ts",
+    "kicker01PoisedToKick": "../soccer-common/images/africa/africaKicker01PoisedToKick_svg.ts",
+    "kicker01Kicking": "../soccer-common/images/africa/africaKicker01Kicking_svg.ts",
+
+    "kicker02Standing": "../soccer-common/images/africa/africaKicker02Standing_svg.ts",
+    "kicker02PoisedToKick": "../soccer-common/images/africa/africaKicker02PoisedToKick_svg.ts",
+    "kicker02Kicking": "../soccer-common/images/africa/africaKicker02Kicking_svg.ts",
+
+    "kicker03Standing": "../soccer-common/images/africa/africaKicker03Standing_svg.ts",
+    "kicker03PoisedToKick": "../soccer-common/images/africa/africaKicker03PoisedToKick_svg.ts",
+    "kicker03Kicking": "../soccer-common/images/africa/africaKicker03Kicking_svg.ts",
+
+    "kicker04Standing": "../soccer-common/images/africa/africaKicker04Standing_svg.ts",
+    "kicker04PoisedToKick": "../soccer-common/images/africa/africaKicker04PoisedToKick_svg.ts",
+    "kicker04Kicking": "../soccer-common/images/africa/africaKicker04Kicking_svg.ts",
+
+    "kicker05Standing": "../soccer-common/images/usa/usaKicker08Standing_svg.ts",
+    "kicker05PoisedToKick": "../soccer-common/images/usa/usaKicker08PoisedToKick_svg.ts",
+    "kicker05Kicking": "../soccer-common/images/usa/usaKicker08Kicking_svg.ts",
+
+    "kicker06Standing": "../soccer-common/images/usa/usaKicker14Standing_svg.ts",
+    "kicker06PoisedToKick": "../soccer-common/images/usa/usaKicker14PoisedToKick_svg.ts",
+    "kicker06Kicking": "../soccer-common/images/usa/usaKicker14Kicking_svg.ts",
+
+    "kicker07Standing": "../soccer-common/images/africa/africaKicker07Standing_svg.ts",
+    "kicker07PoisedToKick": "../soccer-common/images/africa/africaKicker07PoisedToKick_svg.ts",
+    "kicker07Kicking": "../soccer-common/images/africa/africaKicker07Kicking_svg.ts",
+
+    "kicker08Standing": "../soccer-common/images/usa/usaKicker12Standing_svg.ts",
+    "kicker08PoisedToKick": "../soccer-common/images/usa/usaKicker12PoisedToKick_svg.ts",
+    "kicker08Kicking": "../soccer-common/images/usa/usaKicker12Kicking_svg.ts",
+
+    "kicker09Standing": "../soccer-common/images/usa/usaKicker10Standing_svg.ts",
+    "kicker09PoisedToKick": "../soccer-common/images/usa/usaKicker10PoisedToKick_svg.ts",
+    "kicker09Kicking": "../soccer-common/images/usa/usaKicker10Kicking_svg.ts",
+
+    "kicker10Standing": "../soccer-common/images/usa/usaKicker02Standing_svg.ts",
+    "kicker10PoisedToKick": "../soccer-common/images/usa/usaKicker02PoisedToKick_svg.ts",
+    "kicker10Kicking": "../soccer-common/images/usa/usaKicker02Kicking_svg.ts",
+
+    "kicker11Standing": "../soccer-common/images/africa/africaKicker11Standing_svg.ts",
+    "kicker11PoisedToKick": "../soccer-common/images/africa/africaKicker11PoisedToKick_svg.ts",
+    "kicker11Kicking": "../soccer-common/images/africa/africaKicker11Kicking_svg.ts",
+
+    "kicker12Standing": "../soccer-common/images/usa/usaKicker04Standing_svg.ts",
+    "kicker12PoisedToKick": "../soccer-common/images/usa/usaKicker04PoisedToKick_svg.ts",
+    "kicker12Kicking": "../soccer-common/images/usa/usaKicker04Kicking_svg.ts",
+
+    "kicker13Standing": "../soccer-common/images/africa/africaKicker13Standing_svg.ts",
+    "kicker13PoisedToKick": "../soccer-common/images/africa/africaKicker13PoisedToKick_svg.ts",
+    "kicker13Kicking": "../soccer-common/images/africa/africaKicker13Kicking_svg.ts",
+
+    "kicker14Standing": "../soccer-common/images/africa/africaKicker14Standing_svg.ts",
+    "kicker14PoisedToKick": "../soccer-common/images/africa/africaKicker14PoisedToKick_svg.ts",
+    "kicker14Kicking": "../soccer-common/images/africa/africaKicker14Kicking_svg.ts",
+
+    "kicker15Standing": "../soccer-common/images/africa/africaKicker15Standing_svg.ts",
+    "kicker15PoisedToKick": "../soccer-common/images/africa/africaKicker15PoisedToKick_svg.ts",
+    "kicker15Kicking": "../soccer-common/images/africa/africaKicker15Kicking_svg.ts"
+  },
+  "africaModest": {
+    "kicker01Standing": "../soccer-common/images/africaModest/africaModestKicker01Standing_svg.ts",
+    "kicker01PoisedToKick": "../soccer-common/images/africaModest/africaModestKicker01PoisedToKick_svg.ts",
+    "kicker01Kicking": "../soccer-common/images/africaModest/africaModestKicker01Kicking_svg.ts",
+
+    "kicker02Standing": "../soccer-common/images/africaModest/africaModestKicker02Standing_svg.ts",
+    "kicker02PoisedToKick": "../soccer-common/images/africaModest/africaModestKicker02PoisedToKick_svg.ts",
+    "kicker02Kicking": "../soccer-common/images/africaModest/africaModestKicker02Kicking_svg.ts",
+
+    "kicker03Standing": "../soccer-common/images/africaModest/africaModestKicker03Standing_svg.ts",
+    "kicker03PoisedToKick": "../soccer-common/images/africaModest/africaModestKicker03PoisedToKick_svg.ts",
+    "kicker03Kicking": "../soccer-common/images/africaModest/africaModestKicker03Kicking_svg.ts",
+
+    "kicker04Standing": "../soccer-common/images/africa/africaKicker07Standing_svg.ts",
+    "kicker04PoisedToKick": "../soccer-common/images/africa/africaKicker07PoisedToKick_svg.ts",
+    "kicker04Kicking": "../soccer-common/images/africa/africaKicker07Kicking_svg.ts",
+
+    "kicker05Standing": "../soccer-common/images/africaModest/africaModestKicker05Standing_svg.ts",
+    "kicker05PoisedToKick": "../soccer-common/images/africaModest/africaModestKicker05PoisedToKick_svg.ts",
+    "kicker05Kicking": "../soccer-common/images/africaModest/africaModestKicker05Kicking_svg.ts",
+
+    "kicker06Standing": "../soccer-common/images/usa/usaKicker08Standing_svg.ts",
+    "kicker06PoisedToKick": "../soccer-common/images/usa/usaKicker08PoisedToKick_svg.ts",
+    "kicker06Kicking": "../soccer-common/images/usa/usaKicker08Kicking_svg.ts",
+
+    "kicker07Standing": "../soccer-common/images/africaModest/africaModestKicker07Standing_svg.ts",
+    "kicker07PoisedToKick": "../soccer-common/images/africaModest/africaModestKicker07PoisedToKick_svg.ts",
+    "kicker07Kicking": "../soccer-common/images/africaModest/africaModestKicker07Kicking_svg.ts",
+
+    "kicker08Standing": "../soccer-common/images/africa/africaKicker14Standing_svg.ts",
+    "kicker08PoisedToKick": "../soccer-common/images/africa/africaKicker14PoisedToKick_svg.ts",
+    "kicker08Kicking": "../soccer-common/images/africa/africaKicker14Kicking_svg.ts",
+
+    "kicker09Standing": "../soccer-common/images/africa/africaKicker03Standing_svg.ts",
+    "kicker09PoisedToKick": "../soccer-common/images/africa/africaKicker03PoisedToKick_svg.ts",
+    "kicker09Kicking": "../soccer-common/images/africa/africaKicker03Kicking_svg.ts",
+
+    "kicker10Standing": "../soccer-common/images/usa/usaKicker02Standing_svg.ts",
+    "kicker10PoisedToKick": "../soccer-common/images/usa/usaKicker02PoisedToKick_svg.ts",
+    "kicker10Kicking": "../soccer-common/images/usa/usaKicker02Kicking_svg.ts",
+
+    "kicker11Standing": "../soccer-common/images/africaModest/africaModestKicker11Standing_svg.ts",
+    "kicker11PoisedToKick": "../soccer-common/images/africaModest/africaModestKicker11PoisedToKick_svg.ts",
+    "kicker11Kicking": "../soccer-common/images/africaModest/africaModestKicker11Kicking_svg.ts",
+
+    "kicker12Standing": "../soccer-common/images/africa/africaKicker01Standing_svg.ts",
+    "kicker12PoisedToKick": "../soccer-common/images/africa/africaKicker01PoisedToKick_svg.ts",
+    "kicker12Kicking": "../soccer-common/images/africa/africaKicker01Kicking_svg.ts",
+
+    "kicker13Standing": "../soccer-common/images/africaModest/africaModestKicker13Standing_svg.ts",
+    "kicker13PoisedToKick": "../soccer-common/images/africaModest/africaModestKicker13PoisedToKick_svg.ts",
+    "kicker13Kicking": "../soccer-common/images/africaModest/africaModestKicker13Kicking_svg.ts",
+
+    "kicker14Standing": "../soccer-common/images/africa/africaKicker04Standing_svg.ts",
+    "kicker14PoisedToKick": "../soccer-common/images/africa/africaKicker04PoisedToKick_svg.ts",
+    "kicker14Kicking": "../soccer-common/images/africa/africaKicker04Kicking_svg.ts",
+
+    "kicker15Standing": "../soccer-common/images/africa/africaKicker15Standing_svg.ts",
+    "kicker15PoisedToKick": "../soccer-common/images/africa/africaKicker15PoisedToKick_svg.ts",
+    "kicker15Kicking": "../soccer-common/images/africa/africaKicker15Kicking_svg.ts"
+  },
+  "asia": {
+    "kicker01Standing": "../soccer-common/images/asia/asiaKicker01Standing_svg.ts",
+    "kicker01PoisedToKick": "../soccer-common/images/asia/asiaKicker01PoisedToKick_svg.ts",
+    "kicker01Kicking": "../soccer-common/images/asia/asiaKicker01Kicking_svg.ts",
+
+    "kicker02Standing": "../soccer-common/images/asia/asiaKicker02Standing_svg.ts",
+    "kicker02PoisedToKick": "../soccer-common/images/asia/asiaKicker02PoisedToKick_svg.ts",
+    "kicker02Kicking": "../soccer-common/images/asia/asiaKicker02Kicking_svg.ts",
+
+    "kicker03Standing": "../soccer-common/images/asia/asiaKicker03Standing_svg.ts",
+    "kicker03PoisedToKick": "../soccer-common/images/asia/asiaKicker03PoisedToKick_svg.ts",
+    "kicker03Kicking": "../soccer-common/images/asia/asiaKicker03Kicking_svg.ts",
+
+    "kicker04Standing": "../soccer-common/images/asia/asiaKicker04Standing_svg.ts",
+    "kicker04PoisedToKick": "../soccer-common/images/asia/asiaKicker04PoisedToKick_svg.ts",
+    "kicker04Kicking": "../soccer-common/images/asia/asiaKicker04Kicking_svg.ts",
+
+    "kicker05Standing": "../soccer-common/images/asia/asiaKicker05Standing_svg.ts",
+    "kicker05PoisedToKick": "../soccer-common/images/asia/asiaKicker05PoisedToKick_svg.ts",
+    "kicker05Kicking": "../soccer-common/images/asia/asiaKicker05Kicking_svg.ts",
+
+    "kicker06Standing": "../soccer-common/images/asia/asiaKicker06Standing_svg.ts",
+    "kicker06PoisedToKick": "../soccer-common/images/asia/asiaKicker06PoisedToKick_svg.ts",
+    "kicker06Kicking": "../soccer-common/images/asia/asiaKicker06Kicking_svg.ts",
+
+    "kicker07Standing": "../soccer-common/images/asia/asiaKicker07Standing_svg.ts",
+    "kicker07PoisedToKick": "../soccer-common/images/asia/asiaKicker07PoisedToKick_svg.ts",
+    "kicker07Kicking": "../soccer-common/images/asia/asiaKicker07Kicking_svg.ts",
+
+    "kicker08Standing": "../soccer-common/images/oceania/oceaniaKicker08Standing_svg.ts",
+    "kicker08PoisedToKick": "../soccer-common/images/oceania/oceaniaKicker08PoisedToKick_svg.ts",
+    "kicker08Kicking": "../soccer-common/images/oceania/oceaniaKicker08Kicking_svg.ts",
+
+    "kicker09Standing": "../soccer-common/images/asia/asiaKicker09Standing_svg.ts",
+    "kicker09PoisedToKick": "../soccer-common/images/asia/asiaKicker09PoisedToKick_svg.ts",
+    "kicker09Kicking": "../soccer-common/images/asia/asiaKicker09Kicking_svg.ts",
+
+    "kicker10Standing": "../soccer-common/images/asia/asiaKicker10Standing_svg.ts",
+    "kicker10PoisedToKick": "../soccer-common/images/asia/asiaKicker10PoisedToKick_svg.ts",
+    "kicker10Kicking": "../soccer-common/images/asia/asiaKicker10Kicking_svg.ts",
+
+    "kicker11Standing": "../soccer-common/images/asia/asiaKicker11Standing_svg.ts",
+    "kicker11PoisedToKick": "../soccer-common/images/asia/asiaKicker11PoisedToKick_svg.ts",
+    "kicker11Kicking": "../soccer-common/images/asia/asiaKicker11Kicking_svg.ts",
+
+    "kicker12Standing": "../soccer-common/images/asia/asiaKicker12Standing_svg.ts",
+    "kicker12PoisedToKick": "../soccer-common/images/asia/asiaKicker12PoisedToKick_svg.ts",
+    "kicker12Kicking": "../soccer-common/images/asia/asiaKicker12Kicking_svg.ts",
+
+    "kicker13Standing": "../soccer-common/images/asia/asiaKicker13Standing_svg.ts",
+    "kicker13PoisedToKick": "../soccer-common/images/asia/asiaKicker13PoisedToKick_svg.ts",
+    "kicker13Kicking": "../soccer-common/images/asia/asiaKicker13Kicking_svg.ts",
+
+    "kicker14Standing": "../soccer-common/images/asia/asiaKicker14Standing_svg.ts",
+    "kicker14PoisedToKick": "../soccer-common/images/asia/asiaKicker14PoisedToKick_svg.ts",
+    "kicker14Kicking": "../soccer-common/images/asia/asiaKicker14Kicking_svg.ts",
+
+    "kicker15Standing": "../soccer-common/images/asia/asiaKicker15Standing_svg.ts",
+    "kicker15PoisedToKick": "../soccer-common/images/asia/asiaKicker15PoisedToKick_svg.ts",
+    "kicker15Kicking": "../soccer-common/images/asia/asiaKicker15Kicking_svg.ts"
+  },
+  "latinAmerica": {
+    "kicker01Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker01Standing_svg.ts",
+    "kicker01PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker01PoisedToKick_svg.ts",
+    "kicker01Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker01Kicking_svg.ts",
+
+    "kicker02Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker02Standing_svg.ts",
+    "kicker02PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker02PoisedToKick_svg.ts",
+    "kicker02Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker02Kicking_svg.ts",
+
+    "kicker03Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker03Standing_svg.ts",
+    "kicker03PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker03PoisedToKick_svg.ts",
+    "kicker03Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker03Kicking_svg.ts",
+
+    "kicker04Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker04Standing_svg.ts",
+    "kicker04PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker04PoisedToKick_svg.ts",
+    "kicker04Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker04Kicking_svg.ts",
+
+    "kicker05Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker05Standing_svg.ts",
+    "kicker05PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker05PoisedToKick_svg.ts",
+    "kicker05Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker05Kicking_svg.ts",
+
+    "kicker06Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker06Standing_svg.ts",
+    "kicker06PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker06PoisedToKick_svg.ts",
+    "kicker06Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker06Kicking_svg.ts",
+
+    "kicker07Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker07Standing_svg.ts",
+    "kicker07PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker07PoisedToKick_svg.ts",
+    "kicker07Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker07Kicking_svg.ts",
+
+    "kicker08Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker08Standing_svg.ts",
+    "kicker08PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker08PoisedToKick_svg.ts",
+    "kicker08Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker08Kicking_svg.ts",
+
+    "kicker09Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker09Standing_svg.ts",
+    "kicker09PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker09PoisedToKick_svg.ts",
+    "kicker09Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker09Kicking_svg.ts",
+
+    "kicker10Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker10Standing_svg.ts",
+    "kicker10PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker10PoisedToKick_svg.ts",
+    "kicker10Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker10Kicking_svg.ts",
+
+    "kicker11Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker11Standing_svg.ts",
+    "kicker11PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker11PoisedToKick_svg.ts",
+    "kicker11Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker11Kicking_svg.ts",
+
+    "kicker12Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker12Standing_svg.ts",
+    "kicker12PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker12PoisedToKick_svg.ts",
+    "kicker12Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker12Kicking_svg.ts",
+
+    "kicker13Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker13Standing_svg.ts",
+    "kicker13PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker13PoisedToKick_svg.ts",
+    "kicker13Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker13Kicking_svg.ts",
+
+    "kicker14Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker14Standing_svg.ts",
+    "kicker14PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker14PoisedToKick_svg.ts",
+    "kicker14Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker14Kicking_svg.ts",
+
+    "kicker15Standing": "../soccer-common/images/latinAmerica/latinAmericaKicker15Standing_svg.ts",
+    "kicker15PoisedToKick": "../soccer-common/images/latinAmerica/latinAmericaKicker15PoisedToKick_svg.ts",
+    "kicker15Kicking": "../soccer-common/images/latinAmerica/latinAmericaKicker15Kicking_svg.ts"
+  },
+  "oceania": {
+    "kicker01Standing": "../soccer-common/images/oceania/oceaniaKicker01Standing_svg.ts",
+    "kicker01PoisedToKick": "../soccer-common/images/oceania/oceaniaKicker01PoisedToKick_svg.ts",
+    "kicker01Kicking": "../soccer-common/images/oceania/oceaniaKicker01Kicking_svg.ts",
+
+    "kicker02Standing": "../soccer-common/images/oceania/oceaniaKicker02Standing_svg.ts",
+    "kicker02PoisedToKick": "../soccer-common/images/oceania/oceaniaKicker02PoisedToKick_svg.ts",
+    "kicker02Kicking": "../soccer-common/images/oceania/oceaniaKicker02Kicking_svg.ts",
+
+    "kicker03Standing": "../soccer-common/images/asia/asiaKicker03Standing_svg.ts",
+    "kicker03PoisedToKick": "../soccer-common/images/asia/asiaKicker03PoisedToKick_svg.ts",
+    "kicker03Kicking": "../soccer-common/images/asia/asiaKicker03Kicking_svg.ts",
+
+    "kicker04Standing": "../soccer-common/images/asia/asiaKicker04Standing_svg.ts",
+    "kicker04PoisedToKick": "../soccer-common/images/asia/asiaKicker04PoisedToKick_svg.ts",
+    "kicker04Kicking": "../soccer-common/images/asia/asiaKicker04Kicking_svg.ts",
+
+    "kicker05Standing": "../soccer-common/images/asia/asiaKicker05Standing_svg.ts",
+    "kicker05PoisedToKick": "../soccer-common/images/asia/asiaKicker05PoisedToKick_svg.ts",
+    "kicker05Kicking": "../soccer-common/images/asia/asiaKicker05Kicking_svg.ts",
+
+    "kicker06Standing": "../soccer-common/images/oceania/oceaniaKicker06Standing_svg.ts",
+    "kicker06PoisedToKick": "../soccer-common/images/oceania/oceaniaKicker06PoisedToKick_svg.ts",
+    "kicker06Kicking": "../soccer-common/images/oceania/oceaniaKicker06Kicking_svg.ts",
+
+    "kicker07Standing": "../soccer-common/images/asia/asiaKicker07Standing_svg.ts",
+    "kicker07PoisedToKick": "../soccer-common/images/asia/asiaKicker07PoisedToKick_svg.ts",
+    "kicker07Kicking": "../soccer-common/images/asia/asiaKicker07Kicking_svg.ts",
+
+    "kicker08Standing": "../soccer-common/images/oceania/oceaniaKicker08Standing_svg.ts",
+    "kicker08PoisedToKick": "../soccer-common/images/oceania/oceaniaKicker08PoisedToKick_svg.ts",
+    "kicker08Kicking": "../soccer-common/images/oceania/oceaniaKicker08Kicking_svg.ts",
+
+    "kicker09Standing": "../soccer-common/images/asia/asiaKicker09Standing_svg.ts",
+    "kicker09PoisedToKick": "../soccer-common/images/asia/asiaKicker09PoisedToKick_svg.ts",
+    "kicker09Kicking": "../soccer-common/images/asia/asiaKicker09Kicking_svg.ts",
+
+    "kicker10Standing": "../soccer-common/images/asia/asiaKicker10Standing_svg.ts",
+    "kicker10PoisedToKick": "../soccer-common/images/asia/asiaKicker10PoisedToKick_svg.ts",
+    "kicker10Kicking": "../soccer-common/images/asia/asiaKicker10Kicking_svg.ts",
+
+    "kicker11Standing": "../soccer-common/images/oceania/oceaniaKicker11Standing_svg.ts",
+    "kicker11PoisedToKick": "../soccer-common/images/oceania/oceaniaKicker11PoisedToKick_svg.ts",
+    "kicker11Kicking": "../soccer-common/images/oceania/oceaniaKicker11Kicking_svg.ts",
+
+    "kicker12Standing": "../soccer-common/images/asia/asiaKicker12Standing_svg.ts",
+    "kicker12PoisedToKick": "../soccer-common/images/asia/asiaKicker12PoisedToKick_svg.ts",
+    "kicker12Kicking": "../soccer-common/images/asia/asiaKicker12Kicking_svg.ts",
+
+    "kicker13Standing": "../soccer-common/images/asia/asiaKicker13Standing_svg.ts",
+    "kicker13PoisedToKick": "../soccer-common/images/asia/asiaKicker13PoisedToKick_svg.ts",
+    "kicker13Kicking": "../soccer-common/images/asia/asiaKicker13Kicking_svg.ts",
+
+    "kicker14Standing": "../soccer-common/images/oceania/oceaniaKicker14Standing_svg.ts",
+    "kicker14PoisedToKick": "../soccer-common/images/oceania/oceaniaKicker14PoisedToKick_svg.ts",
+    "kicker14Kicking": "../soccer-common/images/oceania/oceaniaKicker14Kicking_svg.ts",
+
+    "kicker15Standing": "../soccer-common/images/asia/asiaKicker15Standing_svg.ts",
+    "kicker15PoisedToKick": "../soccer-common/images/asia/asiaKicker15PoisedToKick_svg.ts",
+    "kicker15Kicking": "../soccer-common/images/asia/asiaKicker15Kicking_svg.ts"
+  }
+}

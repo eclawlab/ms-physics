@@ -1,0 +1,17 @@
+{
+  "example-sim.title": {
+    "value": "示例模拟"
+  },
+  "screen.magnets": {
+    "value": "磁铁"
+  },
+  "screen.particles": {
+    "value": "粒子"
+  },
+  "magnetControls": {
+    "value": "磁铁控制"
+  },
+  "flipPolarity": {
+    "value": "翻转极性"
+  }
+}

@@ -1,0 +1,14 @@
+.idea/
+build/
+node_modules/
+*.iml
+.DS_Store
+.DS_Store?
+*.sublime-project
+*.sublime-workspace
+.eslintcache
+screenshots/
+logs/*.txt
+.continuous-testing-state.json
+.continuous-testing-state-backup.json
+.env

@@ -1,0 +1,171 @@
+vegas.title:                      vegas demo
+screen.components:                Components
+screen.finiteChallenges:          Finite Challenges
+screen.infiniteChallenges:        Infinite Challenges
+pattern.0challenge.1max:          Challenge {0} of {1}
+pattern.0hours.1minutes.2seconds: '{0}:{1}:{2}'
+pattern.0minutes.1seconds:        '{0}:{1}'
+keepTrying:                       Keep Trying
+good:                             Good!
+great:                            Great!
+excellent:                        Excellent!
+yourNewBest:                      (Your New Best!)
+pattern.0yourBest:                '(Your Best: {0})'
+continue:                         Continue
+label.level:                      'Level: {0}'
+label.scorePattern:               'Score: {0}'
+check:                            Check
+next:                             Next
+button.newGame:                   New Game
+showAnswer:                       Show Answer
+label.time:                       'Time: {0}'
+label.score.max:                  'Score: {0} out of {1}'
+tryAgain:                         Try Again
+selectLevel:                      Select Level
+startOver:                        Start Over
+pattern.score.number:             'Score: {{score}}'
+keepGoing:                        Keep Going
+newLevel:                         New Level
+score:                            'Score:'
+done:                             Done
+youCompletedAllLevels:            You completed all levels!
+chooseYourLevel:                  Choose Your Level!
+levels:                           Levels
+
+keyboardHelpDialog.gameShortcuts: Game Shortcuts
+keyboardHelpDialog.checkAnswer:   Check Answer
+
+a11y:
+  scoreDisplays:
+    scoreDisplayStars:
+      accessibleScore: |-
+                       { $stars ->
+                         [one] { $stars } Star
+                         *[other] { $stars } Stars
+                        }
+    scoreDisplayLabelledStars:
+      accessibleScore: |-
+                       Score: { $stars ->
+                         [one] { $stars } star
+                         *[other] { $stars } stars
+                        }
+    scoreDisplayNumberAndStar:
+      accessibleScore: |-
+                       { $stars ->
+                         [one] { $stars } star
+                         *[other] { $stars } stars
+                        }
+  timeDisplayPattern: |-
+                      { $hours ->
+                        [0] { $minutes ->
+                                [0] { $seconds } seconds
+                                [one] 1 minute and { $seconds } seconds
+                                *[other] { $minutes } minutes and { $seconds } seconds
+                                }
+                        [one] { $minutes ->
+                              [one] 1 hour, 1 minute and { $seconds } seconds
+                              *[other] 1 hour, { $minutes } minutes and { $seconds } seconds
+                              }
+                        *[other] { $minutes ->
+                                  [one] { $hours } hours, 1 minute and { $seconds } seconds
+                                  *[other] { $hours } hours, { $minutes } minutes and { $seconds } seconds
+                                  }
+                      }
+  statusBar:
+    accessibleHeading:                Level Progress
+    accessibleHeadingWithLevelNumber: Level { $levelNumber } Progress
+    backButton:
+      accessibleName:     Back
+      accessibleHelpText: Go back to choose a new level.
+    startOver:
+      accessibleHelpText: Erase progress and choose a new level.
+  checkButton:
+    accessibleName:                         Check Answer
+    accessibleContextResponseCorrectStars:  |-
+                                            Great! You earned { $stars ->
+                                            [one] { $stars } star
+                                            *[other] { $stars } stars
+                                            }.
+    accessibleContextResponseCorrectPoints: |-
+                                            Great! You earned { $points ->
+                                            [one] { $points } point
+                                            *[other] { $points } points
+                                            }.
+    accessibleContextResponseIncorrect:     Oops! Let’s review.
+  gameTimerToggleButton:
+    accessibleContextResponseOn:  Play game with Timer on.
+    accessibleContextResponseOff: Play game without Timer.
+  levelCompletedNode:
+    timeItem:
+
+      # Just a display of the time.
+      time:            'Time: { $time }'
+
+      # A display of the time, with the best play time.
+      timeWithBest:    'Time: { $time }. Your Best: { $bestTime }'
+
+      # A display of the time when it is the new best time.
+      timeWithNewBest: 'Time: { $time }. Your New Best!'
+    continueButton:
+      accessibleHelpText: Read on to review Level { $levelNumber } Summary, or hit Continue to choose a level and keep playing.
+    accessibleContextResponse: Level { $levelNumber } complete. { $stars }, { $progressMessage }
+  allLevelsCompletedNode:
+    faceNode:
+      accessibleParagraph: A big smiley is happy you completed all levels!
+    doneButton:
+      accessibleHelpText: Return to level selection screen to check progress or keep playing.
+    accessibleContextResponseShow: You completed all levels!
+  gameInfoButton:
+    accessibleName:     Game Info
+    accessibleHelpText: If needed, read brief details for each level.
+
+  showAnswerButton:
+    accessibleHelpText:        Review answer to move on.
+    accessibleContextResponse: Answer displayed. Review and move on.
+  challengeScreenNode:
+
+    # Simple accessibleHeading when a game does not have a defined number of challenges. If it does, the accessibleHeading
+    # will use the visual pattern for challenge like "Challenge 1 of 5".
+    accessibleHeadingChallenge: Challenge
+    accessibleAnswerSection:    Answer Submission
+    accessibleProgressSection:  Level { $levelNumber } Progress
+  rewardScreenNode:
+    accessibleHeading: Level { $levelNumber } Summary
+  rewardDialog:
+    accessibleName:                  Level { $levelNumber } Summary
+    accessibleContextResponseShown:  Level { $levelNumber } complete with { $stars }.
+    accessibleContextResponseHidden: Continue playing level { $levelNumber }.
+    keepGoingButton:
+      accessibleContextResponse: Continue playing Level { $levelNumber }.
+    phetGirl:
+      accessibleParagraph: PhET Girl juggles a few of your { $stars }.
+    newLevelButton:
+      accessibleParagraph: Choose a New Level or Keep Going with Level { $levelNumber }.
+  units:
+    stars:
+      pattern: |-
+               { $value ->
+                 [one] { $value } star
+                 *[other] { $value } stars
+               }
+    points:
+      pattern: |-
+               { $value ->
+                 [one] { $value } point
+                 *[other] { $value } points
+               }
+
+  levelSelectionButton:
+
+    # The accessible name has four variants - with and without a descriptive name and additionally with and without best time.
+    accessibleName:              'Level { $levelNumber }, { $scoreDescription }'
+    accessibleNameWithLevelName: 'Level { $levelNumber }: { $levelName }, { $scoreDescription }'
+    accessibleNameWithBestTime: 'Level { $levelNumber }, { $scoreDescription }, Best Time { $time }'
+    accessibleNameWithLevelNameAndBestTime: 'Level { $levelNumber }: { $levelName }, { $scoreDescription }, Best Time { $time }'
+  levelSelectionScreenNode:
+    accessibleHeadingChooseLevel:  Choose Your Level
+    accessibleHeadingOptions:      Game Options
+    accessibleContextResponseShow: Choose Your Level!
+    screenSummary:
+      intro:            Welcome to the { $screenName } Screen. Choose a level to start earning stars. Clear everything with Reset All to start over.
+      introWithOptions: Welcome to the { $screenName } Screen. Choose a level to start earning stars. Set available game options to your liking. Clear everything with Reset All to start over.

@@ -1,0 +1,1612 @@
+{
+  "hydrogen": {
+    "value": "Waterstof",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Hydrogen"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Hydrogen",
+        "newValue": "Waterstof",
+        "explanation": null
+      }
+    ]
+  },
+  "helium": {
+    "value": "Helium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Helium"
+      }
+    ]
+  },
+  "lithium": {
+    "value": "Lithium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Lithium"
+      }
+    ]
+  },
+  "beryllium": {
+    "value": "Berillium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Beryllium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Beryllium",
+        "newValue": "Berillium",
+        "explanation": null
+      }
+    ]
+  },
+  "boron": {
+    "value": "Boor",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Boron"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Boron",
+        "newValue": "Boor",
+        "explanation": null
+      }
+    ]
+  },
+  "carbon": {
+    "value": "Koolstof",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Carbon"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Carbon",
+        "newValue": "Koolstof",
+        "explanation": null
+      }
+    ]
+  },
+  "nitrogen": {
+    "value": "Stikstof",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Nitrogen"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Nitrogen",
+        "newValue": "Stikstof",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "Suurstof",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Suurstof"
+      }
+    ]
+  },
+  "fluorine": {
+    "value": "Fluoor",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Fluorine"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Fluorine",
+        "newValue": "Fluoor",
+        "explanation": null
+      }
+    ]
+  },
+  "neon": {
+    "value": "Neon",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Neon"
+      }
+    ]
+  },
+  "sodium": {
+    "value": "Sodium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Sodium"
+      }
+    ]
+  },
+  "magnesium": {
+    "value": "Magnesium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Magnesium"
+      }
+    ]
+  },
+  "aluminum": {
+    "value": "Aluminum",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Aluminum"
+      }
+    ]
+  },
+  "silicon": {
+    "value": "Silicon",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Silicon"
+      }
+    ]
+  },
+  "phosphorus": {
+    "value": "Fosfor",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Phosphorus"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Phosphorus",
+        "newValue": "Fosfor",
+        "explanation": null
+      }
+    ]
+  },
+  "sulfur": {
+    "value": "Swael",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Swael"
+      }
+    ]
+  },
+  "chlorine": {
+    "value": "Chloor",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Chlorine"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Chlorine",
+        "newValue": "Chloor",
+        "explanation": null
+      }
+    ]
+  },
+  "argon": {
+    "value": "Argon",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Argon"
+      }
+    ]
+  },
+  "potassium": {
+    "value": "Potassium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Potassium"
+      }
+    ]
+  },
+  "calcium": {
+    "value": "Kalsium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Calcium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Calcium",
+        "newValue": "Kalsium",
+        "explanation": null
+      }
+    ]
+  },
+  "scandium": {
+    "value": "Skandium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Scandium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Scandium",
+        "newValue": "Skandium",
+        "explanation": null
+      }
+    ]
+  },
+  "titanium": {
+    "value": "Titanium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Titanium"
+      }
+    ]
+  },
+  "vanadium": {
+    "value": "Vanadium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Vanadium"
+      }
+    ]
+  },
+  "chromium": {
+    "value": "Chroom",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Chromium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Chromium",
+        "newValue": "Chroom",
+        "explanation": null
+      }
+    ]
+  },
+  "manganese": {
+    "value": "Mangaan",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Manganese"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Manganese",
+        "newValue": "Mangaan",
+        "explanation": null
+      }
+    ]
+  },
+  "iron": {
+    "value": "Yster",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Yster"
+      }
+    ]
+  },
+  "cobalt": {
+    "value": "Kobalt",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Cobalt"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Cobalt",
+        "newValue": "Kobalt",
+        "explanation": null
+      }
+    ]
+  },
+  "nickel": {
+    "value": "Nikkel",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Nickel"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Nickel",
+        "newValue": "Nikkel",
+        "explanation": null
+      }
+    ]
+  },
+  "copper": {
+    "value": "Koper",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Koper"
+      }
+    ]
+  },
+  "zinc": {
+    "value": "Sink",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Sink"
+      }
+    ]
+  },
+  "gallium": {
+    "value": "Gallium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Gallium"
+      }
+    ]
+  },
+  "germanium": {
+    "value": "Germanium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Germanium"
+      }
+    ]
+  },
+  "arsenic": {
+    "value": "Arseen",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Arsenic"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Arsenic",
+        "newValue": "Arseen",
+        "explanation": null
+      }
+    ]
+  },
+  "selenium": {
+    "value": "Selenium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Selenium"
+      }
+    ]
+  },
+  "bromine": {
+    "value": "Broom",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Bromine"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Bromine",
+        "newValue": "Broom",
+        "explanation": null
+      }
+    ]
+  },
+  "krypton": {
+    "value": "Krypton",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Krypton"
+      }
+    ]
+  },
+  "rubidium": {
+    "value": "Rubidium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Rubidium"
+      }
+    ]
+  },
+  "strontium": {
+    "value": "Strontium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Strontium"
+      }
+    ]
+  },
+  "yttrium": {
+    "value": "Yttrium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Yttrium"
+      }
+    ]
+  },
+  "zirconium": {
+    "value": "Sirkonium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Zirconium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Zirconium",
+        "newValue": "Sirkonium",
+        "explanation": null
+      }
+    ]
+  },
+  "niobium": {
+    "value": "Niobium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Niobium"
+      }
+    ]
+  },
+  "molybdenum": {
+    "value": "Molibdeen",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Molybdenum"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Molybdenum",
+        "newValue": "Molibdeen",
+        "explanation": null
+      }
+    ]
+  },
+  "technetium": {
+    "value": "Tegnetium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Technetium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Technetium",
+        "newValue": "Tegnetium",
+        "explanation": null
+      }
+    ]
+  },
+  "ruthenium": {
+    "value": "Ruthenium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Ruthenium"
+      }
+    ]
+  },
+  "rhodium": {
+    "value": "Rhodium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Rhodium"
+      }
+    ]
+  },
+  "palladium": {
+    "value": "Palladium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Palladium"
+      }
+    ]
+  },
+  "silver": {
+    "value": "Silwer",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Silwer"
+      }
+    ]
+  },
+  "cadmium": {
+    "value": "Kadmium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Cadmium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Cadmium",
+        "newValue": "Kadmium",
+        "explanation": null
+      }
+    ]
+  },
+  "indium": {
+    "value": "Indium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Indium"
+      }
+    ]
+  },
+  "tin": {
+    "value": "Tin",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Tin"
+      }
+    ]
+  },
+  "antimony": {
+    "value": "Antimoon",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Antimony"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Antimony",
+        "newValue": "Antimoon",
+        "explanation": null
+      }
+    ]
+  },
+  "tellurium": {
+    "value": "Tellurium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Tellurium"
+      }
+    ]
+  },
+  "iodine": {
+    "value": "Jodium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Iodine"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Iodine",
+        "newValue": "Jodium",
+        "explanation": null
+      }
+    ]
+  },
+  "xenon": {
+    "value": "Xenon",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Xenon"
+      }
+    ]
+  },
+  "cesium": {
+    "value": "Sesium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Cesium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Cesium",
+        "newValue": "Sesium",
+        "explanation": null
+      }
+    ]
+  },
+  "barium": {
+    "value": "Barium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Barium"
+      }
+    ]
+  },
+  "lanthanum": {
+    "value": "Lanthanum",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Lanthanum"
+      }
+    ]
+  },
+  "cerium": {
+    "value": "Serium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Cerium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Cerium",
+        "newValue": "Serium",
+        "explanation": null
+      }
+    ]
+  },
+  "praseodymium": {
+    "value": "Praseodymium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Praseodymium"
+      }
+    ]
+  },
+  "neodymium": {
+    "value": "Neodymium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Neodymium"
+      }
+    ]
+  },
+  "promethium": {
+    "value": "Promethium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Promethium"
+      }
+    ]
+  },
+  "samarium": {
+    "value": "Samarium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Samarium"
+      }
+    ]
+  },
+  "europium": {
+    "value": "Europium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Europium"
+      }
+    ]
+  },
+  "gadolinium": {
+    "value": "Gadolinium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Gadolinium"
+      }
+    ]
+  },
+  "terbium": {
+    "value": "Terbium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Terbium"
+      }
+    ]
+  },
+  "dysprosium": {
+    "value": "Disprosium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Dysprosium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Dysprosium",
+        "newValue": "Disprosium",
+        "explanation": null
+      }
+    ]
+  },
+  "holmium": {
+    "value": "Holmium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Holmium"
+      }
+    ]
+  },
+  "erbium": {
+    "value": "Erbium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Erbium"
+      }
+    ]
+  },
+  "thulium": {
+    "value": "Tulium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Thulium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Thulium",
+        "newValue": "Tulium",
+        "explanation": null
+      }
+    ]
+  },
+  "ytterbium": {
+    "value": "Ytterbium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Ytterbium"
+      }
+    ]
+  },
+  "lutetium": {
+    "value": "Lutetium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Lutetium"
+      }
+    ]
+  },
+  "hafnium": {
+    "value": "Hafnium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Hafnium"
+      }
+    ]
+  },
+  "tantalum": {
+    "value": "Tantalum",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Tantalum"
+      }
+    ]
+  },
+  "tungsten": {
+    "value": "Tungsten",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Tungsten"
+      }
+    ]
+  },
+  "rhenium": {
+    "value": "Rhenium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Rhenium"
+      }
+    ]
+  },
+  "osmium": {
+    "value": "Osmium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Osmium"
+      }
+    ]
+  },
+  "iridium": {
+    "value": "Iridium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Iridium"
+      }
+    ]
+  },
+  "platinum": {
+    "value": "Platinum",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Platinum"
+      }
+    ]
+  },
+  "gold": {
+    "value": "Goud",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Goud"
+      }
+    ]
+  },
+  "mercury": {
+    "value": "Mercury",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Mercury"
+      }
+    ]
+  },
+  "thallium": {
+    "value": "Tallium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Thallium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Thallium",
+        "newValue": "Tallium",
+        "explanation": null
+      }
+    ]
+  },
+  "lead": {
+    "value": "Lead",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Lead"
+      }
+    ]
+  },
+  "bismuth": {
+    "value": "Bismut",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Bismuth"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Bismuth",
+        "newValue": "Bismut",
+        "explanation": null
+      }
+    ]
+  },
+  "polonium": {
+    "value": "Polonium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Polonium"
+      }
+    ]
+  },
+  "astatine": {
+    "value": "Astaat",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Astatine"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Astatine",
+        "newValue": "Astaat",
+        "explanation": null
+      }
+    ]
+  },
+  "radon": {
+    "value": "Radon",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Radon"
+      }
+    ]
+  },
+  "francium": {
+    "value": "Francium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Francium"
+      }
+    ]
+  },
+  "radium": {
+    "value": "Radium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Radium"
+      }
+    ]
+  },
+  "actinium": {
+    "value": "Aktinium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Actinium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Actinium",
+        "newValue": "Aktinium",
+        "explanation": null
+      }
+    ]
+  },
+  "thorium": {
+    "value": "Torium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Thorium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Thorium",
+        "newValue": "Torium",
+        "explanation": null
+      }
+    ]
+  },
+  "protactinium": {
+    "value": "Protactinium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Protactinium"
+      }
+    ]
+  },
+  "uranium": {
+    "value": "Uranium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Uranium"
+      }
+    ]
+  },
+  "neptunium": {
+    "value": "Neptunium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Neptunium"
+      }
+    ]
+  },
+  "plutonium": {
+    "value": "Plutonium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Plutonium"
+      }
+    ]
+  },
+  "americium": {
+    "value": "Americium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Americium"
+      }
+    ]
+  },
+  "curium": {
+    "value": "Curium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Curium"
+      }
+    ]
+  },
+  "berkelium": {
+    "value": "Berkelium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Berkelium"
+      }
+    ]
+  },
+  "californium": {
+    "value": "Californium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Californium"
+      }
+    ]
+  },
+  "einsteinium": {
+    "value": "Einsteinium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Einsteinium"
+      }
+    ]
+  },
+  "fermium": {
+    "value": "Fermium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Fermium"
+      }
+    ]
+  },
+  "mendelevium": {
+    "value": "Mendelevium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Mendelevium"
+      }
+    ]
+  },
+  "nobelium": {
+    "value": "Nobelium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Nobelium"
+      }
+    ]
+  },
+  "lawrencium": {
+    "value": "Lawrencium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Lawrencium"
+      }
+    ]
+  },
+  "rutherfordium": {
+    "value": "Rutherfordium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Rutherfordium"
+      }
+    ]
+  },
+  "dubnium": {
+    "value": "Dubnium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Dubnium"
+      }
+    ]
+  },
+  "seaborgium": {
+    "value": "Seaborgium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Seaborgium"
+      }
+    ]
+  },
+  "bohrium": {
+    "value": "Bohrium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Bohrium"
+      }
+    ]
+  },
+  "hassium": {
+    "value": "Hassium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Hassium"
+      }
+    ]
+  },
+  "meitnerium": {
+    "value": "Meitnerium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Meitnerium"
+      }
+    ]
+  },
+  "darmstadtium": {
+    "value": "Darmstadtium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Darmstadtium"
+      }
+    ]
+  },
+  "roentgenium": {
+    "value": "Roentgenium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Roentgenium"
+      }
+    ]
+  },
+  "copernicium": {
+    "value": "Copernicium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Copernicium"
+      }
+    ]
+  },
+  "nihonium": {
+    "value": "Nihonium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Nihonium"
+      }
+    ]
+  },
+  "flerovium": {
+    "value": "Flerovium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Flerovium"
+      }
+    ]
+  },
+  "moscovium": {
+    "value": "Moskovium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Moscovium"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "Moscovium",
+        "newValue": "Moskovium",
+        "explanation": null
+      }
+    ]
+  },
+  "livermorium": {
+    "value": "Livermorium",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Livermorium"
+      }
+    ]
+  },
+  "tennessine": {
+    "value": "Tennessine",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Tennessine"
+      }
+    ]
+  },
+  "oganesson": {
+    "value": "Oganesson",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738056135561,
+        "oldValue": "",
+        "newValue": "Oganesson"
+      }
+    ]
+  },
+  "electronsColon": {
+    "value": "Electrone:",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "",
+        "newValue": "Electrone:"
+      }
+    ]
+  },
+  "minusSignIon": {
+    "value": "Negatiewe ioon",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "",
+        "newValue": "Negatiewe ioon"
+      }
+    ]
+  },
+  "neutralAtom": {
+    "value": "Neutrale Atoom",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "",
+        "newValue": "Neutrale Atoom"
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "Neutrone:",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "",
+        "newValue": "Neutrone:"
+      }
+    ]
+  },
+  "positiveSignIon": {
+    "value": "Positiewe Ioon",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "",
+        "newValue": "Positiewe Ioon"
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "Protone:",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "",
+        "newValue": "Protone:"
+      }
+    ]
+  },
+  "stable": {
+    "value": "Stabiel",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "",
+        "newValue": "Stabiel"
+      }
+    ]
+  },
+  "unstable": {
+    "value": "Onstabiel",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1773656893694,
+        "oldValue": "",
+        "newValue": "Onstabiel"
+      }
+    ]
+  }
+}

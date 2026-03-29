@@ -1,0 +1,8 @@
+{
+  "extends": "../../tsconfig-aqua-node.json",
+  "references": [
+    {
+      "path": "../../../perennial/tsconfig.json"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "my-solar-system.title": {
+    "value": "我的太阳系"
+  },
+  "screen.intro": {
+    "value": "简介"
+  },
+  "screen.lab": {
+    "value": "实验室"
+  },
+  "centerOfMass": {
+    "value": "质心"
+  },
+  "followCenterOfMass": {
+    "value": "跟踪质心"
+  },
+  "returnBodies": {
+    "value": "恢复天体"
+  },
+  "dataPanel.X": {
+    "value": "x"
+  },
+  "dataPanel.Y": {
+    "value": "y"
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>"
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>"
+  },
+  "mass": {
+    "value": "质量"
+  },
+  "dataPanel.mass": {
+    "value": "质量"
+  },
+  "dataPanel.velocity": {
+    "value": "速度"
+  },
+  "dataPanel.position": {
+    "value": "位置"
+  },
+  "dataPanel.bodies": {
+    "value": "天体"
+  },
+  "dataPanel.moreData": {
+    "value": "更多数据"
+  },
+  "mode.sunAndPlanet": {
+    "value": "恒星、行星"
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "恒星、行星、卫星"
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "恒星、行星、彗星"
+  },
+  "mode.trojanAsteroids": {
+    "value": "特洛伊小行星"
+  },
+  "mode.ellipses": {
+    "value": "椭圆轨道"
+  },
+  "mode.hyperbolic": {
+    "value": "双曲线轨道"
+  },
+  "mode.slingshot": {
+    "value": "弹弓效应"
+  },
+  "mode.doubleSlingshot": {
+    "value": "双重弹弓效应"
+  },
+  "mode.binaryStarPlanet": {
+    "value": "双星、行星"
+  },
+  "mode.fourStarBallet": {
+    "value": "四星芭蕾"
+  },
+  "mode.doubleDouble": {
+    "value": "双双星"
+  },
+  "mode.custom": {
+    "value": "自定义"
+  },
+  "mode.orbitalSystem1": {
+    "value": "轨道系统 1"
+  },
+  "mode.orbitalSystem2": {
+    "value": "轨道系统 2"
+  },
+  "mode.orbitalSystem3": {
+    "value": "轨道系统 3"
+  },
+  "mode.orbitalSystem4": {
+    "value": "轨道系统 4"
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg"
+  },
+  "unitsInfo.title": {
+    "value": "单位信息"
+  },
+  "unitsInfo.content": {
+    "value": "<b>注 1：</b>天文单位（AU）约为 1.5 亿千米，是太阳与地球之间的平均距离。"
+  },
+  "unitsInfo.content2": {
+    "value": "<b>注 2：</b>本模拟中的质量值范围从 1 个木星质量到 1.5 个太阳质量。所有天体在强引力场下表现出类似的行为，包括较小的行星、彗星和小行星。"
+  },
+  "unitsInfo.content3": {
+    "value": "<b>注 3：</b>由于模拟中的数值范围很大，引力矢量有时可能太小或太大而无法显示。可以使用缩放控件调整引力矢量的大小。"
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}}（{{units}}）"
+  },
+  "pattern.range": {
+    "value": "{{min}} 到 {{max}}"
+  },
+  "keyboardHelpDialog.chooseAnOrbitalSystem": {
+    "value": "选择轨道系统"
+  },
+  "keyboardHelpDialog.orbitalSystems": {
+    "value": "轨道系统"
+  },
+  "keyboardHelpDialog.orbitalSystem": {
+    "value": "轨道系统"
+  },
+  "a11y": {
+    "moreData": {
+      "value": "更多数据"
+    },
+    "info": {
+      "value": "信息"
+    },
+    "numberOfBodies": {
+      "value": "天体数量"
+    },
+    "introScreen": {
+      "screenSummary": {
+        "playAreaDescription": {
+          "value": "游戏区是一个观察窗口，显示一个包含两个天体的场景。可以实验调整两个天体的质量、速度、位置和方向。"
+        },
+        "controlAreaDescription": {
+          "value": "在控制区中，有添加网格和卷尺的选项。你还可以切换天体的轨迹和数值的显示，以及查看它们的质心。控制区有用于控制观察窗口中动作速度的选项，包括暂停和逐步前进按钮。"
+        }
+      }
+    },
+    "labScreen": {
+      "screenSummary": {
+        "playAreaDescription": {
+          "value": "游戏区是一个观察窗口，显示一个有多种选项的场景，可以设置自己的实验。重现我们的太阳和地球，或创建你自己的太阳系。"
+        },
+        "controlAreaDescription": {
+          "value": "在控制区中，有查看和更改轨道区域的选项，以及调整和查看轨道信息的选项。你可以选择预设的天体排列或自定义，还有缩放选项。控制区有用于控制观察窗口中动作速度的选项，包括暂停和逐步前进按钮。"
+        }
+      },
+      "orbitalSystemSelector": {
+        "value": "轨道系统选择器"
+      }
+    }
+  }
+}

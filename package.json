@@ -1,0 +1,21 @@
+{
+  "name": "ms-physics",
+  "version": "1.0.0",
+  "description": "Middle School Physics Tutor + Interactive Physics Lab (Grades 6-8)",
+  "main": "server.js",
+  "scripts": {
+    "start": "cd tutor && node server.js",
+    "lab": "node server.js"
+  },
+  "keywords": [
+    "physics",
+    "tutor",
+    "middle-school",
+    "phet",
+    "interactive"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

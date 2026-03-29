@@ -1,0 +1,281 @@
+{
+  "fourier-making-waves.title": {
+    "value": "傅里叶：制造波"
+  },
+  "screen.discrete": {
+    "value": "离散"
+  },
+  "screen.waveGame": {
+    "value": "波形游戏"
+  },
+  "screen.wavePacket": {
+    "value": "波包"
+  },
+  "fourierSeries": {
+    "value": "傅里叶级数"
+  },
+  "graphControls": {
+    "value": "图表控制"
+  },
+  "measurementTools": {
+    "value": "测量工具"
+  },
+  "sinusoid": {
+    "value": "正弦波"
+  },
+  "triangle": {
+    "value": "三角波"
+  },
+  "square": {
+    "value": "方波"
+  },
+  "sawtooth": {
+    "value": "锯齿波"
+  },
+  "wavePacket": {
+    "value": "波包"
+  },
+  "custom": {
+    "value": "自定义"
+  },
+  "waveform": {
+    "value": "波形："
+  },
+  "harmonics": {
+    "value": "谐波："
+  },
+  "harmonicsChart": {
+    "value": "谐波"
+  },
+  "functionOf": {
+    "value": "函数变量："
+  },
+  "series": {
+    "value": "级数："
+  },
+  "spaceSymbol": {
+    "value": "空间（{{symbol}}）"
+  },
+  "timeSymbol": {
+    "value": "时间（{{symbol}}）"
+  },
+  "spaceAndTimeSymbols": {
+    "value": "空间和时间（{{spaceSymbol}}，{{timeSymbol}}）"
+  },
+  "wavelength": {
+    "value": "波长："
+  },
+  "period": {
+    "value": "周期："
+  },
+  "equation": {
+    "value": "方程："
+  },
+  "hidden": {
+    "value": "隐藏"
+  },
+  "symbolAndSymbol": {
+    "value": "{{symbol1}} 和 {{symbol2}}"
+  },
+  "amplitude": {
+    "value": "振幅"
+  },
+  "sum": {
+    "value": "总和"
+  },
+  "infiniteHarmonics": {
+    "value": "无穷谐波"
+  },
+  "minToMax": {
+    "value": "{{min}} 到 {{max}}"
+  },
+  "enter": {
+    "value": "确定"
+  },
+  "sawtoothWithCosines": {
+    "value": "锯齿波是非对称的，不能用余弦波合成。<br>已切换为正弦波。"
+  },
+  "expandedForm": {
+    "value": "展开形式"
+  },
+  "symbol.A": {
+    "value": "A"
+  },
+  "symbol.cos": {
+    "value": "cos"
+  },
+  "symbol.d": {
+    "value": "d"
+  },
+  "symbol.F": {
+    "value": "F"
+  },
+  "symbol.L": {
+    "value": "L"
+  },
+  "symbol.T": {
+    "value": "T"
+  },
+  "symbol.f": {
+    "value": "f"
+  },
+  "symbol.k": {
+    "value": "k"
+  },
+  "symbol.lambda": {
+    "value": "λ"
+  },
+  "symbol.n": {
+    "value": "n"
+  },
+  "symbol.omega": {
+    "value": "ω"
+  },
+  "symbol.sigma": {
+    "value": "σ"
+  },
+  "symbol.sin": {
+    "value": "sin"
+  },
+  "symbol.t": {
+    "value": "t"
+  },
+  "symbol.x": {
+    "value": "x"
+  },
+  "symbolsDialog.title": {
+    "value": "符号"
+  },
+  "symbolsDialog.A": {
+    "value": "{{A}} - 振幅"
+  },
+  "symbolsDialog.f": {
+    "value": "{{f}} - 频率，单位 Hz"
+  },
+  "symbolsDialog.lambda": {
+    "value": "{{lambda}} - 波长，单位 m"
+  },
+  "symbolsDialog.k": {
+    "value": "{{k}} - 空间波数，单位 rad/m"
+  },
+  "symbolsDialog.L": {
+    "value": "{{L}} - 弦长，单位 m（如果这是一根被拨弄的弦）"
+  },
+  "symbolsDialog.n": {
+    "value": "{{n}} - 模式、谐波编号、阶数"
+  },
+  "symbolsDialog.t": {
+    "value": "{{t}} - 时间，单位 ms"
+  },
+  "symbolsDialog.T": {
+    "value": "{{T}} - 周期，单位 ms"
+  },
+  "symbolsDialog.x": {
+    "value": "{{x}} - 空间位置，单位 m"
+  },
+  "symbolsDialog.sigma": {
+    "value": "{{sigma}} - 高斯波包的标准差"
+  },
+  "symbolsDialog.omega": {
+    "value": "{{omega}} - 角波数，单位 rad/ms"
+  },
+  "levels": {
+    "value": "关卡"
+  },
+  "chooseYourLevel": {
+    "value": "选择你的关卡"
+  },
+  "matchUsing1Harmonic": {
+    "value": "<b>关卡 1</b>：使用 <b>1</b> 个谐波匹配粉色波形。"
+  },
+  "matchUsingNHarmonics": {
+    "value": "<b>关卡 {{levelNumber}}</b>：使用 <b>{{numberOfHarmonics}}</b> 个谐波匹配粉色波形。"
+  },
+  "matchUsingNOrMoreHarmonics": {
+    "value": "<b>关卡 {{levelNumber}}</b>：使用 <u><b>{{numberOfHarmonics}} 个或更多</b></u> 谐波匹配粉色波形。"
+  },
+  "info1Harmonic": {
+    "value": "<b>关卡 1</b>：1 个谐波"
+  },
+  "infoNHarmonics": {
+    "value": "<b>关卡 {{levelNumber}}</b>：{{numberOfHarmonics}} 个谐波"
+  },
+  "infoNOrMoreHarmonics": {
+    "value": "<b>关卡 {{levelNumber}}</b>：{{numberOfHarmonics}} 个<u>或更多</u>谐波"
+  },
+  "checkAnswer": {
+    "value": "检查答案"
+  },
+  "showAnswer": {
+    "value": "显示答案"
+  },
+  "newWaveform": {
+    "value": "新波形"
+  },
+  "amplitudeControls": {
+    "value": "振幅控制："
+  },
+  "componentSpacing": {
+    "value": "分量间距"
+  },
+  "wavePacketCenter": {
+    "value": "波包中心"
+  },
+  "wavePacketWidth": {
+    "value": "波包宽度"
+  },
+  "amplitudesOfFourierComponents": {
+    "value": "傅里叶分量的振幅"
+  },
+  "fourierComponents": {
+    "value": "傅里叶分量"
+  },
+  "waveformEnvelope": {
+    "value": "波形包络"
+  },
+  "widthIndicators": {
+    "value": "宽度指示器"
+  },
+  "continuousWaveform": {
+    "value": "连续波形"
+  },
+  "symbolValueUnits": {
+    "value": "{{symbol}} = {{value}} {{units}}"
+  },
+  "symbolSymbolValueUnits": {
+    "value": "{{symbol1}} = 1/{{symbol2}} = {{value}} {{units}}"
+  },
+  "units.meters": {
+    "value": "m"
+  },
+  "units.milliseconds": {
+    "value": "ms"
+  },
+  "units.radiansPerMeter": {
+    "value": "rad/m"
+  },
+  "units.radiansPerMillisecond": {
+    "value": "rad/ms"
+  },
+  "symbolUnits": {
+    "value": "{{symbol}}（{{units}}）"
+  },
+  "infiniteComponentsCannotBePlotted": {
+    "value": "无穷多个分量无法绘制。"
+  },
+  "keyboardHelpDialog.gameControls": {
+    "value": "游戏控制"
+  },
+  "keyboardHelpDialog.checkYourAnswer": {
+    "value": "检查你的答案"
+  },
+  "keyboardHelpDialog.measurementTools": {
+    "value": "测量工具"
+  },
+  "keyboardHelpDialog.moveTool": {
+    "value": "移动工具"
+  },
+  "keyboardHelpDialog.moveToolSlower": {
+    "value": "更慢移动"
+  }
+}

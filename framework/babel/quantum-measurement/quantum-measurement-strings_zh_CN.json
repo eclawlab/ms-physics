@@ -1,0 +1,396 @@
+{
+  "quantum-measurement.title": {
+    "value": "量子测量"
+  },
+  "screen.coins": {
+    "value": "硬币"
+  },
+  "screen.photons": {
+    "value": "光子"
+  },
+  "screen.spin": {
+    "value": "自旋"
+  },
+  "screen.blochSphere": {
+    "value": "布洛赫球"
+  },
+  "atom": {
+    "value": "原子"
+  },
+  "atoms": {
+    "value": "原子"
+  },
+  "averagePolarization": {
+    "value": "平均偏振"
+  },
+  "averagePolarizationRate": {
+    "value": "平均偏振率"
+  },
+  "averagePolarizationDialog.title": {
+    "value": "平均偏振表示"
+  },
+  "averagePolarizationDialog.subTitle": {
+    "value": "在平均偏振方程中："
+  },
+  "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+    "value": "{{function}} - 被{{direction}}偏振探测器检测到的光子数"
+  },
+  "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+    "value": "{{function}} - 检测到的光子总数"
+  },
+  "averagePolarizationDialog.explanatoryParagraph": {
+    "value": "该方程给出一个介于 +1 和 -1 之间的值。如果将每次检测到的垂直偏振映射为 +1，每次检测到的水平偏振映射为 -1，则该值表示检测到的光子偏振的加权平均值。该值也可以映射为位于 +1 和 -1 之间的矢量表示。"
+  },
+  "averagePolarizationRepresentation": {
+    "value": "平均偏振表示"
+  },
+  "coin": {
+    "value": "硬币"
+  },
+  "coinBias": {
+    "value": "硬币偏置（状态）"
+  },
+  "custom": {
+    "value": "自定义"
+  },
+  "decimalValues": {
+    "value": "十进制值"
+  },
+  "eventsPerSecondPattern": {
+    "value": "{{value}}/s"
+  },
+  "expectationValue": {
+    "value": "期望值"
+  },
+  "flip": {
+    "value": "翻转"
+  },
+  "flipAndReveal": {
+    "value": "翻转并揭示"
+  },
+  "fortyFiveDegrees": {
+    "value": "45°"
+  },
+  "hide": {
+    "value": "隐藏"
+  },
+  "horizontal": {
+    "value": "水平"
+  },
+  "identicalCoins": {
+    "value": "相同硬币"
+  },
+  "initialOrientation": {
+    "value": "初始朝向"
+  },
+  "basisState": {
+    "value": "基态"
+  },
+  "H": {
+    "value": "H"
+  },
+  "itemToPreparePattern": {
+    "value": "待制备的{{item}}"
+  },
+  "magneticField": {
+    "value": "磁场"
+  },
+  "manyPhotons": {
+    "value": "多光子"
+  },
+  "mirror": {
+    "value": "反射镜"
+  },
+  "multipleCoinMeasurements": {
+    "value": "多硬币测量"
+  },
+  "nameAndAbbreviationPattern": {
+    "value": "{{name}}（<b>{{abbreviation}}</b>）"
+  },
+  "newCoin": {
+    "value": "新硬币"
+  },
+  "observe": {
+    "value": "观测"
+  },
+  "start": {
+    "value": "开始"
+  },
+  "photonPolarizationAngle": {
+    "value": "光子偏振角"
+  },
+  "polarizationDetectorLabelPattern": {
+    "value": "{{orientation}}偏振<br>探测器"
+  },
+  "polarizingBeamSplitter": {
+    "value": "偏振<br>分束器"
+  },
+  "propagation": {
+    "value": "传播"
+  },
+  "propagationIntoPage": {
+    "value": "传播<br>（向页面内）"
+  },
+  "classical": {
+    "value": "经典"
+  },
+  "classicalCoin": {
+    "value": "经典硬币"
+  },
+  "P": {
+    "value": "P"
+  },
+  "photonSource": {
+    "value": "光子源"
+  },
+  "preparedState": {
+    "value": "制备态"
+  },
+  "probability": {
+    "value": "概率"
+  },
+  "probabilityOfValuePattern": {
+    "value": "P({{value}})"
+  },
+  "numberOfCoinsPattern": {
+    "value": "N = {{number}}"
+  },
+  "quantum": {
+    "value": "量子"
+  },
+  "quantumCoinQuoted": {
+    "value": "量子"硬币""
+  },
+  "reprepare": {
+    "value": "重新制备"
+  },
+  "reprepareAndReveal": {
+    "value": "重新制备并观测"
+  },
+  "reveal": {
+    "value": "揭示"
+  },
+  "singleCoinMeasurements": {
+    "value": "单硬币测量"
+  },
+  "singlePhoton": {
+    "value": "单光子"
+  },
+  "spinStateToPrepare": {
+    "value": "待制备的自旋态"
+  },
+  "stateToPrepare": {
+    "value": "待制备的状态"
+  },
+  "V": {
+    "value": "V"
+  },
+  "N": {
+    "value": "N"
+  },
+  "vectorRepresentation": {
+    "value": "矢量表示"
+  },
+  "vertical": {
+    "value": "垂直"
+  },
+  "SternGerlachMeasurements": {
+    "value": "斯特恩-格拉赫（SG）测量"
+  },
+  "sourceMode": {
+    "value": "源模式"
+  },
+  "spinSource": {
+    "value": "自旋-1/2 源"
+  },
+  "total": {
+    "value": "总计"
+  },
+  "blochSphere": {
+    "value": "布洛赫球"
+  },
+  "unpolarized": {
+    "value": "非偏振"
+  },
+  "unknownProbabilitySymbol": {
+    "value": "?"
+  },
+  "projection": {
+    "value": "投影："
+  },
+  "blockUp": {
+    "value": "阻挡上旋"
+  },
+  "blockDown": {
+    "value": "阻挡下旋"
+  },
+  "expectedPercentage": {
+    "value": "预期百分比"
+  },
+  "none": {
+    "value": "无"
+  },
+  "lots": {
+    "value": "大量"
+  },
+  "experimentNPattern": {
+    "value": "实验 {{number}} {{order}}"
+  },
+  "spinMeasurementAxis": {
+    "value": "自旋测量轴"
+  },
+  "basisColon": {
+    "value": "基矢："
+  },
+  "polarAngleParenthesesSymbolPattern": {
+    "value": "极角（{{symbol}}）"
+  },
+  "azimuthalAngleParenthesesSymbolPattern": {
+    "value": "方位角（{{symbol}}）"
+  },
+  "singleParticle": {
+    "value": "单粒子"
+  },
+  "continuous": {
+    "value": "连续"
+  },
+  "behavior": {
+    "value": "行为"
+  },
+  "numberOfAtoms": {
+    "value": "原子数"
+  },
+  "measurementDelay": {
+    "value": "测量延迟（ns）"
+  },
+  "preferences.showGlobalPhase.title": {
+    "value": "显示全局相位"
+  },
+  "preferences.showGlobalPhase.description": {
+    "value": "在布洛赫球屏幕上显示量子态的全局相位"
+  },
+  "preferences.classicalCoinsStartHidden.title": {
+    "value": "经典硬币初始隐藏"
+  },
+  "preferences.classicalCoinsStartHidden.description": {
+    "value": "在制备后隐藏经典硬币"
+  },
+  "a11y": {
+    "equationAccessibleParagraphPattern": {
+      "value": "{{alpha}} 乘以上态加上 {{beta}} 乘以下态。"
+    },
+    "singleCoinStatePattern": {
+      "value": "单个硬币：{{state}}"
+    },
+    "quantumCoinsAccessibleParagraph": {
+      "value": "待制备的自旋态（alpha 乘以上态加上 beta 乘以下态）"
+    },
+    "preparationAreaHeader": {
+      "classicalCoinToPrepare": {
+        "value": "待制备的经典硬币"
+      },
+      "classicalCoin": {
+        "value": "经典硬币"
+      },
+      "quantumCoinToPrepare": {
+        "value": "待制备的量子"硬币""
+      },
+      "preparedState": {
+        "value": "制备态"
+      },
+      "classicalAccessibleParagraphPattern": {
+        "value": "初始朝向：{{initialCoinFaceState}}。正面概率：{{upProbability}}。反面概率：{{downProbability}}"
+      },
+      "quantumAccessibleParagraphPattern": {
+        "value": "初始朝向：{{initialCoinFaceState}}。上态概率：{{upProbability}}。下态概率：{{downProbability}}"
+      }
+    },
+    "coinsScreen": {
+      "screenButtonsHelpText": {
+        "value": "使用硬币屏幕进行实验"
+      },
+      "coinStates": {
+        "heads": {
+          "value": "正面"
+        },
+        "tails": {
+          "value": "反面"
+        },
+        "superposition": {
+          "value": "叠加态"
+        },
+        "up": {
+          "value": "上"
+        },
+        "down": {
+          "value": "下"
+        }
+      },
+      "probabilityNumberControls": {
+        "probabilityOfHeads": {
+          "value": "正面概率"
+        },
+        "probabilityOfHeadsHelpText": {
+          "value": "翻转硬币落在正面的概率"
+        },
+        "probabilityOfTails": {
+          "value": "反面概率"
+        },
+        "probabilityOfTailsHelpText": {
+          "value": "翻转硬币落在反面的概率"
+        },
+        "probabilityOfUp": {
+          "value": "上态概率，Alpha 的平方"
+        },
+        "probabilityOfUpHelpText": {
+          "value": "翻转硬币落在上态的概率"
+        },
+        "probabilityOfDown": {
+          "value": "下态概率，Beta 的平方"
+        },
+        "probabilityOfDownHelpText": {
+          "value": "翻转硬币落在下态的概率"
+        }
+      },
+      "initialOrientationHelpText": {
+        "value": "翻转前的硬币朝向"
+      },
+      "startMeasurement": {
+        "value": "开始测量"
+      },
+      "startMeasurementHelpText": {
+        "value": "准备要测量的硬币"
+      },
+      "prepareNewCoinHelpText": {
+        "value": "准备新硬币的按钮"
+      },
+      "identicalCoins": {
+        "value": "相同硬币"
+      },
+      "identicalCoinsHelpText": {
+        "value": "要制备的相同硬币数量"
+      }
+    },
+    "photonsScreen": {
+      "screenButtonsHelpText": {
+        "value": "使用光子屏幕进行实验"
+      },
+      "photonBehaviorMode": {
+        "value": "光子的行为"
+      },
+      "emitPhotonButton": {
+        "value": "光子源"
+      }
+    },
+    "spinScreen": {
+      "screenButtonsHelpText": {
+        "value": "使用自旋屏幕进行实验"
+      }
+    },
+    "blochSphereScreen": {
+      "screenButtonsHelpText": {
+        "value": "使用布洛赫球屏幕进行实验"
+      }
+    }
+  }
+}

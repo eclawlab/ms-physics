@@ -1,0 +1,95 @@
+{
+  "comment": "# wilder 1.0.0-dev.1 Thu Jul 23 2020 12:32:16 GMT-0800 (Alaska Daylight Time)",
+  "assert": {
+    "sha": "1a41cef653bbed1025af5768bea958d7e3e0f8ae",
+    "branch": "main"
+  },
+  "axon": {
+    "sha": "571ed8f322a9815e3634a041cafe79a66bbcbf95",
+    "branch": "main"
+  },
+  "brand": {
+    "sha": "83c51961edf5b255206c82de7d6f4df6b4ea41bc",
+    "branch": "main"
+  },
+  "chipper": {
+    "sha": "6c2caf855d0ca99b736b6204697db199da137e75",
+    "branch": "main"
+  },
+  "dot": {
+    "sha": "ecaa90f14199cffc426cc9098fcfeb69a086b982",
+    "branch": "main"
+  },
+  "joist": {
+    "sha": "bde554917ede4088394bd8023cea6bce843499d2",
+    "branch": "main"
+  },
+  "kite": {
+    "sha": "ed0c49f276c62558ca1d695362807ee4dcaed80c",
+    "branch": "main"
+  },
+  "phet-core": {
+    "sha": "5f73ea3056fbe8d852f9aca0328e26c75d458467",
+    "branch": "main"
+  },
+  "phet-io": {
+    "sha": "e0e6ae92f2bb167a7ecba10e5d1d9ba8d04d12e8",
+    "branch": "main"
+  },
+  "phet-io-client-guides": {
+    "sha": "1a74dfd0695525d0cb95a1212b18d4cde73b1466",
+    "branch": "main"
+  },
+  "phet-io-wrappers": {
+    "sha": "381100f95b37ebc96ce33cbd71496fcaa854501a",
+    "branch": "main"
+  },
+  "phetcommon": {
+    "sha": "7efe73b2044421640a7a2c71a9a41d3e37ecd0bb",
+    "branch": "main"
+  },
+  "phetmarks": {
+    "sha": "6bd57c29c52507cc00213f3eb51629fc468f38b8",
+    "branch": "main"
+  },
+  "query-string-machine": {
+    "sha": "fce9acaca3dea7caa639454b052843b691b14193",
+    "branch": "main"
+  },
+  "scenery": {
+    "sha": "bcc45133ee17451cdbd8210516657c051b4a5d5b",
+    "branch": "main"
+  },
+  "scenery-phet": {
+    "sha": "65aa972041f601b84190c45ac7391495a981172b",
+    "branch": "main"
+  },
+  "sherpa": {
+    "sha": "c351f9babb7af524b2eb713b82b11fd4379b466c",
+    "branch": "main"
+  },
+  "studio": {
+    "sha": "65d1c0f2b426a36674e5ece4e6593d8950c6ba45",
+    "branch": "main"
+  },
+  "sun": {
+    "sha": "126d491bb7fd1f06d0532a10466815fb0bd7e4c8",
+    "branch": "main"
+  },
+  "tambo": {
+    "sha": "2577976a57e8f3fe16f42e50e61d44c56576b9b4",
+    "branch": "main"
+  },
+  "tandem": {
+    "sha": "5d1d40b2a65b88a902ab2b8dd4454f86b1e32a4a",
+    "branch": "main"
+  },
+  "utterance-queue": {
+    "sha": "c2b44d1ca355707b2c2bae2a173c6ad26b5e6613",
+    "branch": "main"
+  },
+  "wilder": {
+    "sha": "621b07866e3e41095adcdcb8a41692e5ee4a7682",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "gravityForce": {
+    "value": "引力"
+  },
+  "grid": {
+    "value": "网格"
+  },
+  "measuringTape": {
+    "value": "卷尺"
+  },
+  "velocity": {
+    "value": "速度"
+  },
+  "V": {
+    "value": "V"
+  },
+  "clear": {
+    "value": "清除"
+  },
+  "path": {
+    "value": "轨迹"
+  },
+  "zoom": {
+    "value": "缩放："
+  },
+  "offscaleMessage": {
+    "value": "某些力矢量太小，无法显示。"
+  },
+  "speed": {
+    "value": "速率（km/s）"
+  },
+  "units.AU": {
+    "value": "AU"
+  },
+  "units.years": {
+    "value": "年"
+  },
+  "units.kms": {
+    "value": "km/s"
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}"
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>"
+  },
+  "a11y": {
+    "restart": {
+      "value": "重新开始"
+    },
+    "massSlider": {
+      "value": "质量滑块"
+    },
+    "scaleSlider": {
+      "value": "缩放滑块"
+    },
+    "increase": {
+      "value": "增大"
+    },
+    "decrease": {
+      "value": "减小"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+chains.title:            Chains
+screen.chains:           Chains
+screen.directional:      Directional
+plainString:             It's not easy being green.
+multilineString:         Give me a<br>break.
+htmlString:              Turning left on <i>red</i> is a <b>bold</b> move.
+patternString:           "{0}: {1} {2}"
+namedPlaceholdersString: "{{name}} is traveling at {{speed}} km/hr"
+size:                    Size
+nestedLevel1:
+  nestedLevel2:
+    message:             This is a nested message.
+
+directional:
+  valuePattern:                               "{{value}}"
+  valueSignPattern:                           "{{sign}}{{value}}"
+  valueUnitsPattern:                          "{{value}} {{units}}"
+  valueSignUnitsPattern:                      "{{sign}}{{value}} {{units}}"
+  signValueCurrencyPattern:                   "{{sign}}{{value}}{{currency}}"
+  signCurrencyValuePattern:                   "{{sign}}{{currency}}{{value}}"
+  wordParenthesesColonValuePattern:           "{{word}} ({{units}}): {{value}}"
+  subscriptsAndSuperscriptsPattern:           "{{units}}<sup>{{value}}</sup> + {{units}}<sub>{{value}}</sub>"
+  wordEqualsSignCurrencyValuePattern:         "{{word}} = {{sign}}{{currency}}{{value}}"
+  units:                                      km
+  celcius:                                   °C
+  currency:                                   $
+  word:                                       fun
+
+
+a11y:
+  nested:
+    constant:        Constant string
+    fluentReference: Hello { a11y_nested_constant } world
+    fluentVariable:  Hello { $variable } world
+    selector:        |-
+                     { $activityLevel ->
+                     *[calm]            relatively calm
+                     [active]          active
+                     [activeAndPaused] active and paused
+                     }
+    cascade:         Right now, the weather is { a11y_nested_selector }.

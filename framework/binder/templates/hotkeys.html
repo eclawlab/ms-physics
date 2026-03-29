@@ -1,0 +1,96 @@
+<article class="container-fluid parent-component" id="hotkeys">
+  <h2>Hotkeys used in PhET Simulations</h2>
+
+  <!-- Search Inputs -->
+  <div class="form-group">
+    <input type="text" id="nameSearch" placeholder="Search by Name" class="form-control mb-3"/>
+    <input type="text" id="keySearch" placeholder="Search by Key" class="form-control mb-3"/>
+    <input type="text" id="repoSearch" placeholder="Search by Repo" class="form-control mb-3"/>
+    <label class="mt-3">
+      <input type="checkbox" id="globalOnly"> Show only global Hotkeys
+    </label>
+    <small class="form-text text-muted">
+      Global hotkeys are keys that work regardless of where the focus is on the webpage.
+    </small>
+  </div>
+
+  <table class="table">
+    <thead>
+    <tr>
+      <th class='w-25'>Name</th>
+      <th>Keys</th>
+      <th>Global</th>
+      <th>Repo</th>
+    </tr>
+    </thead>
+    <tbody id="hotkeysBody">
+    {{#each hotkeys}}
+    <tr>
+      <td class="binderName w-25">{{this.binderName}}</td>
+      <td class='keyStrings'>
+        {{#each this.keyStrings}}
+        <span class='keystroke'>{{this}}</span>{{#unless @last}} | {{/unless}}
+        {{/each}}
+      </td>
+      <td class='global'>{{#if this.global}}Yes{{else}}No{{/if}}</td>
+      <td class='repoName'>{{this.repoName}}</td>
+    </tr>
+    {{/each}}
+    </tbody>
+  </table>
+
+  <!-- Search Inputs -->
+  <script>
+
+
+    // Ensure event listeners are re-initialized after Handlebars re-renders the content
+    const initializeEventListeners = () => {
+
+      const nameInput = document.getElementById( 'nameSearch' );
+      const keyInput = document.getElementById( 'keySearch' );
+      const repoInput = document.getElementById( 'repoSearch' );
+      const globalCheckbox = document.getElementById( 'globalOnly' );
+      const tableBody = document.getElementById( 'hotkeysBody' );
+
+      function filterTable() {
+        const nameFilter = nameInput.value.toLowerCase();
+        const keyFilter = keyInput.value.toLowerCase();
+        const repoFilter = repoInput.value.toLowerCase();
+        const globalFilter = globalCheckbox.checked;
+
+        const rows = tableBody.getElementsByTagName( 'tr' );
+
+        for ( let row of rows ) {
+          const nameText = row.getElementsByClassName( 'binderName' )[ 0 ].textContent.toLowerCase();
+          const keysText = row.getElementsByClassName( 'keyStrings' )[ 0 ].textContent.toLowerCase();
+          const repoText = row.getElementsByClassName( 'repoName' )[ 0 ].textContent.toLowerCase();
+          const isGlobal = row.getElementsByClassName( 'global' )[ 0 ].textContent.toLowerCase() === 'yes';
+
+          const matchesName = nameText.includes( nameFilter );
+          const matchesKey = keysText.includes( keyFilter );
+          const matchesRepo = repoText.includes( repoFilter );
+          const matchesGlobal = !globalFilter || isGlobal;
+
+          if ( matchesName && matchesKey && matchesRepo && matchesGlobal ) {
+            row.style.display = '';
+          }
+          else {
+            row.style.display = 'none';
+          }
+        }
+      }
+
+      nameInput.addEventListener( 'input', filterTable );
+      keyInput.addEventListener( 'input', filterTable );
+      repoInput.addEventListener( 'input', filterTable );
+      globalCheckbox.addEventListener( 'change', filterTable );
+    }
+
+    initializeEventListeners();
+
+    // NOTE: This is a custom event listener that is triggered when the main content is re-rendered by
+    // Handlebars. Newly rendered elements require new event listeners. See base.html for the event trigger.
+    document.addEventListener( 'content-rerendered', initializeEventListeners );
+
+  </script>
+</article>

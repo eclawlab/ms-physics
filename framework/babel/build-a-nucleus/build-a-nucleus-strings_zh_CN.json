@@ -1,0 +1,209 @@
+{
+  "build-a-nucleus.title": {
+    "value": "构建原子核"
+  },
+  "screen.decay": {
+    "value": "衰变"
+  },
+  "screen.chartIntro": {
+    "value": "图表简介"
+  },
+  "protonsColon": {
+    "value": "质子："
+  },
+  "neutronsColon": {
+    "value": "中子："
+  },
+  "seconds": {
+    "value": "秒"
+  },
+  "halfLifeColon": {
+    "value": "半衰期："
+  },
+  "unknown": {
+    "value": "未知"
+  },
+  "unknownSpacePattern": {
+    "value": "未知{{space}}"
+  },
+  "s": {
+    "value": "s"
+  },
+  "lessStable": {
+    "value": "较不稳定"
+  },
+  "moreStable": {
+    "value": "较稳定"
+  },
+  "halfLifeTimescale": {
+    "value": "半衰期时间尺度"
+  },
+  "timeForLightToCrossANucleus": {
+    "value": "光穿过一个原子核的时间"
+  },
+  "timeForLightToCrossAnAtom": {
+    "value": "光穿过一个原子的时间"
+  },
+  "timeForLightToCrossOneThousandAtoms": {
+    "value": "光穿过 1000 个原子的时间"
+  },
+  "timeForSoundToTravelOneMillimeter": {
+    "value": "声音传播 1 mm 的时间"
+  },
+  "aBlinkOfAnEye": {
+    "value": "一眨眼的时间"
+  },
+  "oneMinute": {
+    "value": "一分钟"
+  },
+  "oneYear": {
+    "value": "一年"
+  },
+  "averageHumanLifespan": {
+    "value": "人类平均寿命"
+  },
+  "ageOfTheUniverse": {
+    "value": "宇宙的年龄"
+  },
+  "lifetimeOfLongestLivedStars": {
+    "value": "最长寿恒星的寿命"
+  },
+  "A": {
+    "value": "A"
+  },
+  "B": {
+    "value": "B"
+  },
+  "C": {
+    "value": "C"
+  },
+  "D": {
+    "value": "D"
+  },
+  "E": {
+    "value": "E"
+  },
+  "F": {
+    "value": "F"
+  },
+  "G": {
+    "value": "G"
+  },
+  "H": {
+    "value": "H"
+  },
+  "I": {
+    "value": "I"
+  },
+  "J": {
+    "value": "J"
+  },
+  "availableDecays": {
+    "value": "可用的衰变"
+  },
+  "proton": {
+    "value": "质子"
+  },
+  "neutronUppercase": {
+    "value": "中子"
+  },
+  "neutronLowercase": {
+    "value": "中子"
+  },
+  "electron": {
+    "value": "电子"
+  },
+  "positron": {
+    "value": "正电子"
+  },
+  "alphaDecay": {
+    "value": "α 衰变"
+  },
+  "betaMinusDecay": {
+    "value": "β<sup>-</sup> 衰变"
+  },
+  "betaPlusDecay": {
+    "value": "β<sup>+</sup> 衰变"
+  },
+  "protonEmission": {
+    "value": "质子发射"
+  },
+  "neutronEmission": {
+    "value": "中子发射"
+  },
+  "symbol": {
+    "value": "符号"
+  },
+  "stable": {
+    "value": "稳定"
+  },
+  "unstable": {
+    "value": "不稳定"
+  },
+  "doesNotForm": {
+    "value": "不能形成"
+  },
+  "protons": {
+    "value": "质子"
+  },
+  "neutronsUppercase": {
+    "value": "中子"
+  },
+  "neutronsLowercase": {
+    "value": "中子"
+  },
+  "nameMassPattern": {
+    "value": "{{name}} - {{mass}}"
+  },
+  "elementDoesNotFormPattern": {
+    "value": "{{nameMass}} {{doesNotForm}}"
+  },
+  "zeroParticlesDoesNotFormPattern": {
+    "value": "{{mass}} {{particleType}} {{doesNotForm}}"
+  },
+  "electronCloud": {
+    "value": "电子云"
+  },
+  "clusterOfNeutronsPattern": {
+    "value": "{{neutronNumber}} 个中子的集群"
+  },
+  "availableDecaysInfoPanelText": {
+    "value": "虽然可能存在其他衰变，但显示的可用衰变是最常见的。在没有已知衰变的情况下，不显示可用衰变。"
+  },
+  "energy": {
+    "value": "能量"
+  },
+  "nuclearShellModel": {
+    "value": "核壳层模型"
+  },
+  "partialNuclideChart": {
+    "value": "部分核素图"
+  },
+  "axis.protonNumber": {
+    "value": "质子数"
+  },
+  "axis.neutronNumber": {
+    "value": "中子数"
+  },
+  "mostLikelyDecayType": {
+    "value": "最可能的衰变类型"
+  },
+  "percentageInParenthesesPattern": {
+    "value": "({{decayLikelihoodPercent}}%)"
+  },
+  "magicNumbers": {
+    "value": "幻数"
+  },
+  "fullChartInfoPanelTextPattern": {
+    "value": "卡尔加里大学能源教育项目提供了一个完整的、可交互的核素图及其衰变信息，请参见 {{link}}。"
+  },
+  "fullChartLowercase": {
+    "value": "完整图表"
+  },
+  "fullNuclideChart": {
+    "value": "完整核素图"
+  },
+  "fullChartCapitalized": {
+    "value": "完整图表"
+  }
+}

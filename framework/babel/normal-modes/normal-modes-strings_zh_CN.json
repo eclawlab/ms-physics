@@ -1,0 +1,47 @@
+{
+  "normal-modes.title": {
+    "value": "简正模式"
+  },
+  "screen.oneDimension": {
+    "value": "一维"
+  },
+  "screen.twoDimensions": {
+    "value": "二维"
+  },
+  "initialPositions": {
+    "value": "初始位置"
+  },
+  "zeroPositions": {
+    "value": "零位置"
+  },
+  "numberOfMasses": {
+    "value": "质量数："
+  },
+  "showSprings": {
+    "value": "显示弹簧"
+  },
+  "showPhases": {
+    "value": "显示相位"
+  },
+  "normalMode": {
+    "value": "简正模式："
+  },
+  "amplitude": {
+    "value": "振幅："
+  },
+  "normalModeSpectrum": {
+    "value": "简正模式频谱"
+  },
+  "phase": {
+    "value": "相位："
+  },
+  "frequency": {
+    "value": "频率："
+  },
+  "frequencyRatioOmegaPattern": {
+    "value": "{{frequencyRatio}}ω₀"
+  },
+  "normalModeAmplitudes": {
+    "value": "简正模式振幅"
+  }
+}

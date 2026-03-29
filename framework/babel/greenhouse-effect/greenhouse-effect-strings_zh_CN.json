@@ -1,0 +1,1387 @@
+{
+  "greenhouse-effect.title": {
+    "value": "温室效应"
+  },
+  "screen.waves": {
+    "value": "波动"
+  },
+  "screen.photons": {
+    "value": "光子"
+  },
+  "screen.layerModel": {
+    "value": "层模型"
+  },
+  "screen.micro": {
+    "value": "微观"
+  },
+  "surfaceThermometer": {
+    "value": "地表温度计"
+  },
+  "showSurfaceTemperature": {
+    "value": "显示地表温度"
+  },
+  "morePhotons": {
+    "value": "更多光子"
+  },
+  "solarIntensity": {
+    "value": "太阳强度"
+  },
+  "ourSun": {
+    "value": "我们的太阳"
+  },
+  "surfaceAlbedo": {
+    "value": "地表反照率"
+  },
+  "cloud": {
+    "value": "云"
+  },
+  "startSunlight": {
+    "value": "开始日照"
+  },
+  "energyLegend.title": {
+    "value": "能量"
+  },
+  "sunlight": {
+    "value": "日光"
+  },
+  "infrared": {
+    "value": "红外线"
+  },
+  "infraredAbsorbance": {
+    "value": "红外线吸收率"
+  },
+  "valuePercentPattern": {
+    "value": "{{value}}%"
+  },
+  "sliderAndFluxMeterControls": {
+    "value": "滑块和通量计控件"
+  },
+  "concentrationPanel.greenhouseGasConcentration": {
+    "value": "温室气体浓度"
+  },
+  "fluxMeter.title": {
+    "value": "通量计"
+  },
+  "fluxMeter.energyFlux": {
+    "value": "能量通量"
+  },
+  "concentrationPanel.lots": {
+    "value": "大量"
+  },
+  "concentrationPanel.none": {
+    "value": "无"
+  },
+  "concentrationPanel.iceAge": {
+    "value": "冰河时期"
+  },
+  "energyBalancePanel.title": {
+    "value": "能量平衡"
+  },
+  "energyBalancePanel.subTitle": {
+    "value": "大气层顶"
+  },
+  "energyBalancePanel.in": {
+    "value": "流入"
+  },
+  "energyBalancePanel.out": {
+    "value": "流出"
+  },
+  "energyBalancePanel.net": {
+    "value": "净值"
+  },
+  "temperature.units.kelvin": {
+    "value": "K"
+  },
+  "temperature.units.celsius": {
+    "value": "°C"
+  },
+  "temperature.units.fahrenheit": {
+    "value": "°F"
+  },
+  "temperature.units.valueUnitsPattern": {
+    "value": "{{value}} {{units}}"
+  },
+  "defaultTemperatureUnits": {
+    "value": "默认温度单位"
+  },
+  "concentrationPanel.carbonDioxideConcentrationPattern": {
+    "value": "CO<sub>2</sub>: {{value}} ppm"
+  },
+  "concentrationPanel.methaneConcentrationPattern": {
+    "value": "CH<sub>4</sub>: {{value}} ppb"
+  },
+  "concentrationPanel.nitrousOxideConcentrationPattern": {
+    "value": "N<sub>2</sub>O: {{value}} ppb"
+  },
+  "QuadWavelengthSelector.Microwave": {
+    "value": "微波"
+  },
+  "QuadWavelengthSelector.Infrared": {
+    "value": "红外线"
+  },
+  "QuadWavelengthSelector.Visible": {
+    "value": "可见光"
+  },
+  "QuadWavelengthSelector.Ultraviolet": {
+    "value": "紫外线"
+  },
+  "QuadWavelengthSelector.HigherEnergy": {
+    "value": "更高能量"
+  },
+  "molecularNamePattern": {
+    "value": "{0}（{1}）"
+  },
+  "ControlPanel.CarbonMonoxide": {
+    "value": "一氧化碳"
+  },
+  "ControlPanel.Nitrogen": {
+    "value": "氮气"
+  },
+  "ControlPanel.Oxygen": {
+    "value": "氧气"
+  },
+  "ControlPanel.CarbonDioxide": {
+    "value": "二氧化碳"
+  },
+  "ControlPanel.Methane": {
+    "value": "甲烷"
+  },
+  "ControlPanel.NitrogenDioxide": {
+    "value": "二氧化氮"
+  },
+  "ControlPanel.Ozone": {
+    "value": "臭氧"
+  },
+  "ControlPanel.Water": {
+    "value": "水"
+  },
+  "ButtonNode.ReturnMolecule": {
+    "value": "重置分子"
+  },
+  "SpectrumWindow.buttonCaption": {
+    "value": "光谱图"
+  },
+  "SpectrumWindow.title": {
+    "value": "光谱"
+  },
+  "SpectrumWindow.frequencyArrowLabel": {
+    "value": "频率和能量递增"
+  },
+  "SpectrumWindow.wavelengthArrowLabel": {
+    "value": "波长递增"
+  },
+  "SpectrumWindow.radioBandLabel": {
+    "value": "无线电波"
+  },
+  "SpectrumWindow.microwaveBandLabel": {
+    "value": "微波"
+  },
+  "SpectrumWindow.infraredBandLabel": {
+    "value": "红外线"
+  },
+  "SpectrumWindow.ultravioletBandLabel": {
+    "value": "紫外线"
+  },
+  "SpectrumWindow.xrayBandLabel": {
+    "value": "X射线"
+  },
+  "SpectrumWindow.gammaRayBandLabel": {
+    "value": "伽马\n射线"
+  },
+  "SpectrumWindow.visibleBandLabel": {
+    "value": "可见光"
+  },
+  "SpectrumWindow.cyclesPerSecondUnits": {
+    "value": "Hz"
+  },
+  "SpectrumWindow.metersUnits": {
+    "value": "m"
+  },
+  "openSciEd.energySource": {
+    "value": "来自地球表面的能量"
+  },
+  "energyBalance": {
+    "value": "能量平衡"
+  },
+  "absorbingLayers": {
+    "value": "吸收层"
+  },
+  "temperatureUnits": {
+    "value": "温度单位"
+  },
+  "a11y": {
+    "observationWindowLabel": {
+      "value": "观测窗口"
+    },
+    "energyBalance": {
+      "accessibleHelpText": {
+        "value": "测量大气层顶的入射和出射能量。"
+      }
+    },
+    "fluxMeter": {
+      "accessibleHelpText": {
+        "value": "测量整个大气层中的入射和出射能量。"
+      },
+      "zoomButtonHelpText": {
+        "value": "调整可视范围。"
+      },
+      "energyFluxRangeZoomPattern": {
+        "value": "能量通量范围缩放{{inOrOut}}"
+      },
+      "in": {
+        "value": "放大"
+      },
+      "out": {
+        "value": "缩小"
+      },
+      "visualScaleZoomedPattern": {
+        "value": "可视比例已{{inOrOut}}。"
+      },
+      "noChange": {
+        "value": "能量通量无变化。"
+      }
+    },
+    "fluxMeterUncheckedAlert": {
+      "value": "能量通量已隐藏。"
+    },
+    "fluxMeterCheckedAlert": {
+      "value": "能量通量已添加到观测窗口。"
+    },
+    "morePhotonsCheckedAlert": {
+      "value": "在观测窗口中显示更多光子。"
+    },
+    "morePhotonsUncheckedAlert": {
+      "value": "在观测窗口中显示较少光子。"
+    },
+    "morePhotonsHelpText": {
+      "value": "在观测窗口中显示更多光子。"
+    },
+    "fluxMeterCheckedPattern": {
+      "value": "{{checkedResponse}} {{energyFluxDescription}}"
+    },
+    "fluxMeterStateDescription": {
+      "value": "{{altitude}}，{{incomingSunlightAmount}}入射日光和{{outgoingSunlightAmount}}出射日光。{{outgoingInfraredAmount}}出射红外线和{{incomingInfraredAmount}}入射红外线。"
+    },
+    "fluxMeterAltitude": {
+      "value": "通量计高度"
+    },
+    "fluxMeterHelpText": {
+      "value": "测量不同高度的能量通量。"
+    },
+    "fluxMeterSmallChangePattern": {
+      "value": "能量通量{{negligibleOrNo}}变化"
+    },
+    "negligible": {
+      "value": "可忽略的"
+    },
+    "aboveCloud": {
+      "value": "云层之上"
+    },
+    "belowCloud": {
+      "value": "云层之下"
+    },
+    "surfaceThermometer": {
+      "accessibleHelpText": {
+        "value": "测量地球表面温度。"
+      }
+    },
+    "carbonDioxidePPMPattern": {
+      "value": "二氧化碳 {{value}} 百万分之一"
+    },
+    "methanePPMPattern": {
+      "value": "甲烷 {{value}} 十亿分之一"
+    },
+    "nitrousOxidePPMPattern": {
+      "value": "一氧化二氮 {{value}} 十亿分之一"
+    },
+    "showSurfaceTemperature": {
+      "accessibleHelpText": {
+        "value": "在标尺上描述温度。"
+      }
+    },
+    "surfaceTemperatureScaleHidden": {
+      "value": "地表温度标尺已隐藏。"
+    },
+    "historicalRelativeDescriptions": {
+      "high": {
+        "value": "历史高位"
+      },
+      "moderate": {
+        "value": "历史中等"
+      },
+      "low": {
+        "value": "历史低位"
+      }
+    },
+    "historicalLevelsOfGreenhouseGassesPattern": {
+      "value": "大气中温室气体处于{{historical}}水平。"
+    },
+    "temperatureOptionsLabel": {
+      "value": "温度选项"
+    },
+    "temperatureUnitsLabel": {
+      "value": "温度单位"
+    },
+    "temperatureUnitsHelpText": {
+      "value": "选择温度单位。"
+    },
+    "temperatureUnits": {
+      "kelvin": {
+        "value": "开尔文"
+      },
+      "celsius": {
+        "value": "摄氏度"
+      },
+      "fahrenheit": {
+        "value": "华氏度"
+      }
+    },
+    "qualitativeAmountDescriptions": {
+      "no": {
+        "value": "无"
+      },
+      "extremelyLow": {
+        "value": "极低"
+      },
+      "exceptionallyLow": {
+        "value": "异常低"
+      },
+      "veryLow": {
+        "value": "非常低"
+      },
+      "low": {
+        "value": "低"
+      },
+      "somewhatLow": {
+        "value": "略低"
+      },
+      "moderate": {
+        "value": "中等"
+      },
+      "somewhatHigh": {
+        "value": "略高"
+      },
+      "high": {
+        "value": "高"
+      },
+      "veryHigh": {
+        "value": "非常高"
+      },
+      "exceptionallyHigh": {
+        "value": "异常高"
+      },
+      "extremelyHigh": {
+        "value": "极高"
+      },
+      "max": {
+        "value": "最大"
+      }
+    },
+    "qualitativeAltitudeDescriptions": {
+      "nearSurface": {
+        "value": "接近地表"
+      },
+      "veryLow": {
+        "value": "在非常低的高度"
+      },
+      "low": {
+        "value": "在低高度"
+      },
+      "moderate": {
+        "value": "在中等高度"
+      },
+      "high": {
+        "value": "在高高度"
+      },
+      "veryHigh": {
+        "value": "在非常高的高度"
+      },
+      "topOfAtmosphere": {
+        "value": "在大气层顶部"
+      }
+    },
+    "amountOfPattern": {
+      "value": "{{qualitativeDescription}}量的"
+    },
+    "proportionOfPattern": {
+      "value": "{{qualitativeDescription}}比例的"
+    },
+    "levelsOfPattern": {
+      "value": "{{qualitativeDescription}}水平的"
+    },
+    "timePeriodDescriptions": {
+      "iceAge": {
+        "value": "冰河时期"
+      },
+      "seventeenFifty": {
+        "value": "一七五零年"
+      },
+      "nineteenFifty": {
+        "value": "一九五零年"
+      },
+      "twentyTwenty": {
+        "value": "二零二零年"
+      }
+    },
+    "sky": {
+      "skyDescriptionPattern": {
+        "value": "天空{{cloudDescription}}。"
+      },
+      "cloudy": {
+        "value": "多云"
+      },
+      "clear": {
+        "value": "晴朗"
+      },
+      "cloudAddedAlert": {
+        "value": "云已添加到天空中。"
+      },
+      "someSunlightReflectedAlert": {
+        "value": "部分日光反射回太空。"
+      },
+      "cloudRemovedAlert": {
+        "value": "云已从天空中移除。"
+      },
+      "allSunlightReachesSurfaceAlert": {
+        "value": "所有日光到达地表。"
+      },
+      "cloudAlertPattern": {
+        "value": "{{addedOrRemoved}} {{receivedOrReflected}}"
+      }
+    },
+    "energyLegend": {
+      "title": {
+        "value": "能量图例"
+      },
+      "inObservationWindow": {
+        "value": "在观测窗口中："
+      },
+      "wavesSunlightDescription": {
+        "value": "日光辐射：黄色波，波长短于红外线"
+      },
+      "wavesInfraredDescription": {
+        "value": "红外辐射：红色波，波长长于日光"
+      },
+      "photonsSunlightDescription": {
+        "value": "日光辐射：黄色光子"
+      },
+      "photonsInfraredDescription": {
+        "value": "红外辐射：红色光子"
+      }
+    },
+    "infraredEnergyRedirectingPattern": {
+      "value": "{{changeDescription}}红外线{{energyRepresentation}}被重新导向回地表。"
+    },
+    "infraredEnergyEmittedFromSurfacePattern": {
+      "value": "{{changeDescription}}红外线{{energyRepresentation}}从地表发射。"
+    },
+    "more": {
+      "value": "更多"
+    },
+    "less": {
+      "value": "更少"
+    },
+    "no": {
+      "value": "没有"
+    },
+    "fewer": {
+      "value": "更少"
+    },
+    "energyRepresentation": {
+      "photons": {
+        "value": "光子"
+      },
+      "radiation": {
+        "value": "辐射"
+      }
+    },
+    "inflowToEarth": {
+      "value": "流入地球"
+    },
+    "outflowToSpace": {
+      "value": "流出到太空"
+    },
+    "outgoingEnergyAtAtmospherePattern": {
+      "value": "在大气层顶，出射能量{{greaterThanOrLessThan}}入射能量，净能量{{inflowOrOutflow}}。"
+    },
+    "outgoingEnergyAtAtmosphereEqual": {
+      "value": "在大气层顶，出射能量等于入射能量。"
+    },
+    "noFlowOfEnergyHintDescription": {
+      "value": "没有能量流动。开始日照以探索能量平衡。"
+    },
+    "lessThan": {
+      "value": "小于"
+    },
+    "greaterThan": {
+      "value": "大于"
+    },
+    "currently": {
+      "value": "当前，"
+    },
+    "currentlySimIsPaused": {
+      "value": "当前，模拟已暂停。"
+    },
+    "currentlyNoSunlight": {
+      "value": "当前，观测窗口中没有日光。"
+    },
+    "currentlySimIsPausedNoSunlight": {
+      "value": "当前，模拟已暂停。观测窗口中没有日光。"
+    },
+    "surfaceTemperaturePattern": {
+      "value": "地球表面温度为{{temperatureDescription}}"
+    },
+    "infraredEmissionIntensityPattern": {
+      "value": "{{value}}量的红外光子从地表发射并传向太空。"
+    },
+    "photonDensityDescription": {
+      "value": "接近地表处红外光子密度较高。"
+    },
+    "waves": {
+      "screenButtonsHelpText": {
+        "value": "使用波动表示探索温室效应。"
+      },
+      "screenSummary": {
+        "playAreaDescription": {
+          "value": "游戏区域是一个观测窗口，显示从地球表面延伸到外太空的场景。可以试验温室气体浓度，或探索和比较历史时期。它还有添加云和测量能量平衡的控件。"
+        },
+        "controlAreaDescription": {
+          "value": "控制区域有显示地球表面温度的选项。你可以暂停观测窗口中的动作。"
+        }
+      },
+      "observationWindow": {
+        "infraredEmissionIntensityPattern": {
+          "value": "红外波以{{value}}强度从地表发射并传向太空。"
+        },
+        "infraredEmissionIntensityWithRedirectionPattern": {
+          "value": "{{surfaceEmission}} {{value}}红外能量被重新导向回地表。"
+        },
+        "sunlightWavesTravelFromSpace": {
+          "value": "日光波从太空传到地表。"
+        }
+      }
+    },
+    "photons": {
+      "screenButtonsHelpText": {
+        "value": "使用光子表示探索温室效应。"
+      },
+      "screenSummary": {
+        "playAreaDescription": {
+          "value": "游戏区域是一个观测窗口，显示从地球表面延伸到外太空的场景。可以试验温室气体浓度，或探索和比较历史时期。它还有添加云和测量能量平衡或能量通量的控件。"
+        },
+        "controlAreaDescription": {
+          "value": "控制区域有显示地球表面温度的选项。你可以控制观测窗口中动作的速度，包括暂停和逐步前进按钮。"
+        }
+      },
+      "observationWindow": {
+        "sunlightPhotonsDescription": {
+          "value": "日光光子从太空传到地表。"
+        },
+        "infraredEmissionIntensityWithRedirectionPattern": {
+          "value": "{{surfaceEmission}} {{value}}红外光子被重新导向回地表。"
+        },
+        "noOutgoingInfrared": {
+          "value": "没有红外光子被重新导向回地表。"
+        },
+        "infraredDescriptionPattern": {
+          "value": "{{incomingInfraredDescription}} {{outgoingInfraredDescription}}"
+        }
+      }
+    },
+    "layerModel": {
+      "screenButtonsHelpText": {
+        "value": "试验大气中的红外吸收层。"
+      },
+      "screenSummary": {
+        "playAreaDescription": {
+          "value": "游戏区域是一个观测窗口，显示从地球表面延伸到外太空的场景。它有调整太阳强度、地表反照率以及向大气添加红外吸收层的控件。它还有测量能量平衡和能量通量的控件。"
+        },
+        "controlAreaDescription": {
+          "value": "控制区域有更改温度单位的选项。你可以控制观测窗口中动作的速度，包括暂停和逐步前进按钮。"
+        }
+      },
+      "sameAsOurSun": {
+        "value": "与我们的太阳相同"
+      },
+      "percentOfOurSunPattern": {
+        "value": "我们太阳的{{value}}%"
+      },
+      "surfaceAlbedoHelpText": {
+        "value": "设置地球表面的反射率。"
+      },
+      "sunlightControls": {
+        "value": "日光控件"
+      },
+      "solarIntensityHelpText": {
+        "value": "设置入射日光的强度。"
+      },
+      "infraredControls": {
+        "value": "红外线控件"
+      },
+      "absorbingLayersHelpText": {
+        "value": "从大气中添加或移除红外吸收层。"
+      },
+      "absorbanceValuePattern": {
+        "value": "{{value}}%"
+      },
+      "absorbanceHelpText": {
+        "value": "设置所有层的红外吸收率。"
+      },
+      "observationWindow": {
+        "numberOfAbsorbingLayersPattern": {
+          "value": "大气中有{{number}}个红外吸收层{{s}}"
+        },
+        "sunlightPhotonsDescription": {
+          "value": "日光光子从太空传到地表"
+        },
+        "passingThroughLayersPattern": {
+          "value": "穿过层{{s}}"
+        },
+        "solarIntensityPattern": {
+          "value": "太阳强度为我们太阳的{{percentage}}%。"
+        },
+        "surfaceReflectsNoSunlight": {
+          "value": "地表不反射任何日光回太空。"
+        },
+        "surfaceReflectsSunlightPercentagePattern": {
+          "value": "地表将{{percentage}}%的日光反射回太空。"
+        },
+        "layerThermometerCheckboxLabelPattern": {
+          "value": "第{{number}}层温度计"
+        },
+        "layerThermometerCheckboxHelpText": {
+          "value": "测量第{{number}}层温度。"
+        },
+        "allPhotonsAbsorbedPattern": {
+          "value": "所有红外光子被层{{s}}吸收并随机向上或向下重新发射。"
+        },
+        "percentageOfPhotonsAbsorbedPattern": {
+          "value": "{{absorbedPercentage}}%的红外光子被层{{s}}吸收并随机向上或向下重新发射，而{{passThroughPercentage}}%穿过层{{s}}。"
+        },
+        "layerTemperaturePattern": {
+          "value": "第{{layerNumber}}层温度为{{temperatureWithUnits}}。"
+        },
+        "justAboveLayerPattern": {
+          "value": "刚好在第{{layerNumber}}层上方"
+        },
+        "justBelowLayerPattern": {
+          "value": "刚好在第{{layerNumber}}层下方"
+        },
+        "betweenLayersPattern": {
+          "value": "在第{{layerNumber}}层和第{{nextLayerNumber}}层之间"
+        },
+        "aboveLayerPattern": {
+          "value": "在第{{layerNumber}}层上方"
+        },
+        "belowLayerPattern": {
+          "value": "在第{{layerNumber}}层下方"
+        },
+        "thermometerMeasuringSurfacePattern": {
+          "value": "温度计正在测量{{surfaceOrLayer}}"
+        },
+        "surface": {
+          "value": "地表"
+        },
+        "layerPattern": {
+          "value": "第{{layerNumber}}层"
+        },
+        "thermometerRemovedFrom": {
+          "value": "温度计已从{{surfaceOrLayer}}移除。"
+        },
+        "sunlightPhotonsPattern": {
+          "value": "{{moreFewer}}日光光子进入大气层。"
+        },
+        "multipleLayersAdded": {
+          "value": "已添加多个层。"
+        },
+        "multipleLayersRemoved": {
+          "value": "已移除多个层。"
+        },
+        "layerAddedAboveSurfacePattern": {
+          "value": "第{{number}}层已添加到地表上方。"
+        },
+        "layerAddedContextResponsePattern": {
+          "value": "第{{aboveNumber}}层已添加到第{{belowNumber}}层上方。"
+        },
+        "layerRemovedContextResponsePattern": {
+          "value": "第{{number}}层已移除。"
+        },
+        "layerTemperatureStablePattern": {
+          "value": "第{{number}}层温度稳定在{{temperature}}。"
+        },
+        "fullAbsorptionContextResponse": {
+          "value": "所有层现在吸收100%的红外光子。"
+        },
+        "absorptionChangeContextResponsePattern": {
+          "value": "所有层现在吸收{{absorbedPercentage}}%的红外光子，{{passThroughPercentage}}%穿过层。"
+        },
+        "absorptionChangeWithNoLayersContextResponsePattern": {
+          "value": "没有吸收层。添加的层将吸收{{absorbedPercentage}}%的红外光子。"
+        },
+        "temperatureUnitsPattern": {
+          "value": "温度单位 {{temperatureUnits}}"
+        }
+      }
+    },
+    "greenhouseGasesInAtmospherePattern": {
+      "value": "大气中{{valueDescription}}温室气体。"
+    },
+    "greenhouseGasesValuePattern": {
+      "value": "{{valueDescription}}温室气体。"
+    },
+    "timePeriodPattern": {
+      "value": "时间段为{{timePeriodDescription}}。"
+    },
+    "summaryWithTemperaturePattern": {
+      "value": "{{currentlyDescription}} {{concentrationDescription}} {{temperatureDescription}}。{{skyDescription}}"
+    },
+    "summaryWithoutTemperaturePattern": {
+      "value": "{{currentlyDescription}} {{concentrationDescription}} {{skyDescription}}"
+    },
+    "qualitativeAndQuantitativeTemperatureDescriptionPattern": {
+      "value": "{{qualitativeDescription}}，{{quantitativeDescription}}"
+    },
+    "timePeriodDescriptionPattern": {
+      "value": "{{timePeriod}}，{{description}}"
+    },
+    "thereAreManyHomesAndFactories": {
+      "value": "有许多住宅和工厂"
+    },
+    "thereAreAFewHomesAndFactories": {
+      "value": "有少量住宅和工厂"
+    },
+    "thereIsAFarm": {
+      "value": "有一个农场"
+    },
+    "thereIsALargeGlacier": {
+      "value": "有一个大冰川"
+    },
+    "manyHomesAndFactories": {
+      "value": "许多住宅和工厂"
+    },
+    "aFewHomesAndFactories": {
+      "value": "少量住宅和工厂"
+    },
+    "aFarm": {
+      "value": "一个农场"
+    },
+    "aLargeGlacier": {
+      "value": "一个大冰川"
+    },
+    "timePeriodChangeDescriptionPattern": {
+      "value": "时间段为{{timePeriodDescription}}。"
+    },
+    "nowLevelsOfConcentrationPattern": {
+      "value": "现在{{value}}温室气体。"
+    },
+    "qualitativeConcentrationChangeDescriptionPattern": {
+      "value": "温室气体水平比{{year}}{{comparativeDescription}}。"
+    },
+    "higher": {
+      "value": "更高"
+    },
+    "muchHigher": {
+      "value": "高很多"
+    },
+    "significantlyHigher": {
+      "value": "显著更高"
+    },
+    "lower": {
+      "value": "更低"
+    },
+    "muchLower": {
+      "value": "低很多"
+    },
+    "significantlyLower": {
+      "value": "显著更低"
+    },
+    "concentrationControlReplacedPattern": {
+      "value": "{{replacedControl}}已被替换为{{visibleControl}}。"
+    },
+    "greenhouseGasConcentrationSlider": {
+      "value": "温室气体浓度滑块"
+    },
+    "timePeriodRadioButtonGroup": {
+      "value": "时间段单选按钮组"
+    },
+    "energyBalanceCheckedAlert": {
+      "value": "能量平衡已添加到观测窗口。"
+    },
+    "energyBalanceCheckedPattern": {
+      "value": "{{checkedResponse}} {{outgoingEnergyDescription}}"
+    },
+    "energyBalanceUncheckedAlert": {
+      "value": "能量平衡已隐藏。"
+    },
+    "thermometers": {
+      "value": "温度计"
+    },
+    "thermometerShownAlertPattern": {
+      "value": "温度计正在测量地表温度，{{value}}。"
+    },
+    "thermometerRemovedAlert": {
+      "value": "温度计已移除。"
+    },
+    "qualitativeSurfaceTemperaturePattern": {
+      "value": "地表温度为{{description}}。"
+    },
+    "observationWindowTimePeriodPattern": {
+      "value": "现在是{{timePeriodDescription}}。"
+    },
+    "sunlightAndReflectionPattern": {
+      "value": "{{sunlightDescription}} {{reflectionDescription}}"
+    },
+    "cloudReflection": {
+      "value": "云将部分日光反射回太空。"
+    },
+    "cloudAndGlacierReflection": {
+      "value": "云和冰川将部分日光反射回太空。"
+    },
+    "surfaceTemperatureIsQuantitativePattern": {
+      "value": "地表温度为{{value}}。"
+    },
+    "surfaceTemperatureIsQualitativePattern": {
+      "value": "地表温度为{{description}}。"
+    },
+    "surfaceTemperatureIsQuantitativeAndQualitativePattern": {
+      "value": "地表温度为{{description}}，{{value}}。"
+    },
+    "startSunlightHint": {
+      "value": "开始日照以进行探索。"
+    },
+    "startSunlightButtonHelpText": {
+      "value": "开始日照以开始观测。"
+    },
+    "sunlightStarted": {
+      "value": "日照已开始。"
+    },
+    "cloudCheckboxHelpText": {
+      "value": "试验有云或无云的天空。"
+    },
+    "surfaceTemperatureChangeWithValuePattern": {
+      "value": "地表温度{{qualitativeDescription}}，现在{{temperature}}。"
+    },
+    "surfaceTemperatureChangeWithoutValuePattern": {
+      "value": "地表温度{{qualitativeDescription}}。"
+    },
+    "temperatureChangeWithValuePattern": {
+      "value": "{{qualitativeDescription}}，现在{{temperature}}。"
+    },
+    "temperatureChangeWithoutValuePattern": {
+      "value": "{{qualitativeDescription}}。"
+    },
+    "surfaceTemperatureStable": {
+      "value": "地表温度稳定。"
+    },
+    "surfaceTemperatureStableWithDescription": {
+      "value": "地表温度稳定且{{qualitativeDescription}}。"
+    },
+    "surfaceTemperatureStableWithValue": {
+      "value": "地表温度稳定在{{quantitativeDescription}}。"
+    },
+    "surfaceTemperatureStableWithDescriptionAndValue": {
+      "value": "地表温度稳定且{{qualitativeDescription}}，为{{quantitativeDescription}}。"
+    },
+    "warming": {
+      "value": "正在升温"
+    },
+    "cooling": {
+      "value": "正在降温"
+    },
+    "stabilizing": {
+      "value": "正在稳定"
+    },
+    "concentrationPanel": {
+      "title": {
+        "value": "温室气体探索控件"
+      },
+      "experimentMode": {
+        "value": "实验模式"
+      },
+      "experimentModeHelpText": {
+        "value": "探索从无到大量的广泛浓度范围，或放大比较历史时期。"
+      },
+      "byConcentration": {
+        "value": "按浓度"
+      },
+      "byTimePeriod": {
+        "value": "按时间段"
+      },
+      "timePeriod": {
+        "label": {
+          "value": "时间段"
+        },
+        "accessibleHelpText": {
+          "value": "比较不同历史时期的温室气体水平。"
+        },
+        "yearTwentyTwenty": {
+          "value": "二零二零年"
+        },
+        "yearNineteenFifty": {
+          "value": "一九五零年"
+        },
+        "yearSeventeenFifty": {
+          "value": "一七五零年"
+        },
+        "iceAge": {
+          "value": "冰河时期"
+        }
+      },
+      "concentration": {
+        "greenhouseGasConcentration": {
+          "value": "温室气体浓度"
+        },
+        "concentrationSliderHelpText": {
+          "value": "调整大气中温室气体的量。"
+        }
+      }
+    },
+    "timeControls": {
+      "simPausedEmitterOnAlert": {
+        "value": "模拟已暂停。播放以继续探索。"
+      },
+      "playPauseButtonObservationWindowPlayingDescription": {
+        "value": "暂停观测窗口中的动作。"
+      },
+      "playPauseButtonObservationWindowPausedDescription": {
+        "value": "恢复观测窗口中的动作。"
+      },
+      "playPauseButtonObservationWindowPlayingWithSpeedDescription": {
+        "value": "暂停观测窗口中的动作以进行更仔细的观察，或逐步前进。"
+      },
+      "playPauseButtonObservationWindowPausedWithSpeedDescription": {
+        "value": "恢复观测窗口中的动作或逐步前进。"
+      },
+      "speedRadioButtonsDescription": {
+        "value": "要进行较慢的观察，请以慢速播放模拟。"
+      }
+    },
+    "micro": {
+      "microwaveCapitalized": {
+        "value": "微波"
+      },
+      "infraredCapitalized": {
+        "value": "红外线"
+      },
+      "visibleCapitalized": {
+        "value": "可见光"
+      },
+      "ultravioletCapitalized": {
+        "value": "紫外线"
+      },
+      "microwave": {
+        "value": "微波"
+      },
+      "infrared": {
+        "value": "红外线"
+      },
+      "visible": {
+        "value": "可见光"
+      },
+      "ultraviolet": {
+        "value": "紫外线"
+      },
+      "carbonMonoxideCapitalized": {
+        "value": "一氧化碳"
+      },
+      "nitrogenCapitalized": {
+        "value": "氮气"
+      },
+      "oxygenCapitalized": {
+        "value": "氧气"
+      },
+      "carbonDioxideCapitalized": {
+        "value": "二氧化碳"
+      },
+      "methaneCapitalized": {
+        "value": "甲烷"
+      },
+      "waterCapitalized": {
+        "value": "水"
+      },
+      "nitrogenDioxideCapitalized": {
+        "value": "二氧化氮"
+      },
+      "ozoneCapitalized": {
+        "value": "臭氧"
+      },
+      "carbonMonoxide": {
+        "value": "一氧化碳"
+      },
+      "nitrogen": {
+        "value": "氮气"
+      },
+      "oxygen": {
+        "value": "氧气"
+      },
+      "carbonDioxide": {
+        "value": "二氧化碳"
+      },
+      "methane": {
+        "value": "甲烷"
+      },
+      "water": {
+        "value": "水"
+      },
+      "nitrogenDioxide": {
+        "value": "二氧化氮"
+      },
+      "ozone": {
+        "value": "臭氧"
+      },
+      "bendUpAndDown": {
+        "value": "上下弯曲"
+      },
+      "stretchBackAndForth": {
+        "value": "前后伸缩"
+      },
+      "glows": {
+        "value": "发光"
+      },
+      "rotatesClockwise": {
+        "value": "顺时针旋转"
+      },
+      "rotatesCounterClockwise": {
+        "value": "逆时针旋转"
+      },
+      "left": {
+        "value": "向左"
+      },
+      "right": {
+        "value": "向右"
+      },
+      "up": {
+        "value": "向上"
+      },
+      "down": {
+        "value": "向下"
+      },
+      "upAndToTheLeft": {
+        "value": "向左上方"
+      },
+      "upAndToTheRight": {
+        "value": "向右上方"
+      },
+      "downAndToTheLeft": {
+        "value": "向左下方"
+      },
+      "downAndToTheRight": {
+        "value": "向右下方"
+      },
+      "direction": {
+        "value": "{ $direction ->\n  [left] { a11y_micro_left }\n  [right] { a11y_micro_right }\n  [up] { a11y_micro_up }\n  [down] { a11y_micro_down }\n  [upAndToTheLeft] { a11y_micro_upAndToTheLeft }\n  [upAndToTheRight] { a11y_micro_upAndToTheRight }\n  [downAndToTheLeft] { a11y_micro_downAndToTheLeft }\n  *[downAndToTheRight] { a11y_micro_downAndToTheRight }\n}"
+      },
+      "unknown": {
+        "value": "未知"
+      },
+      "playAreaSummary": {
+        "value": "游戏区域是一个配有光源和分子的观测窗口。它有光源和分子的选项。"
+      },
+      "controlAreaSummary": {
+        "value": "控制区域有控制观测窗口中动作速度的选项，包括暂停和逐步前进按钮。你还可以查看光谱详情和重置模拟。"
+      },
+      "interactionHint": {
+        "value": "打开光源以进行探索。"
+      },
+      "targetPhrase": {
+        "value": "{ $speed ->\n  [normal] directly at\n  *[slow] on slow speed directly at\n}"
+      },
+      "dynamicPlayingEmitterOnScreenSummaryPattern": {
+        "value": "当前，{ a11y_micro_lightSource_lowercase }光源向{ a11y_micro_photonTarget }分子发射光子{ a11y_micro_targetPhrase }。"
+      },
+      "dynamicPlayingEmitterOffScreenSummaryPattern": {
+        "value": "当前，{ a11y_micro_lightSource_lowercase }光源已关闭，指向{ a11y_micro_photonTarget }分子。"
+      },
+      "pausedPhrase": {
+        "value": "{ $speed ->\n  [normal] is paused\n  *[slow] is paused on slow speed\n}"
+      },
+      "dynamicPausedEmitterOnScreenSummaryPattern": {
+        "value": "当前，模拟{ a11y_micro_pausedPhrase }。{ a11y_micro_lightSource_capitalized }光源向{ a11y_micro_photonTarget }分子发射光子。"
+      },
+      "dynamicPausedEmitterOffScreenSummaryPattern": {
+        "value": "当前，模拟{ a11y_micro_pausedPhrase }。{ a11y_micro_lightSource_capitalized }光源已关闭，指向{ a11y_micro_photonTarget }分子。"
+      },
+      "screenSummaryWithHintPattern": {
+        "value": "{ $summary } 重置或更换分子。"
+      },
+      "observationWindowLabel": {
+        "value": "观测窗口"
+      },
+      "photonEmitterOffDescriptionPattern": {
+        "value": "{ a11y_micro_lightSource_capitalized }光源已关闭，指向{ a11y_micro_photonTarget }分子。"
+      },
+      "inactiveAndPassesPhaseDescriptionPattern": {
+        "value": "{ a11y_micro_lightSource_capitalized }光子穿过{ a11y_micro_photonTarget }分子。"
+      },
+      "lightSource": {
+        "lowercase": {
+          "value": "{ $lightSource ->\n  [microwave] 微波\n  [infrared] 红外线\n  [visible] 可见光\n  [ultraviolet] 紫外线\n  *[sunlight] 日光\n}"
+        },
+        "capitalized": {
+          "value": "{ $lightSource ->\n  [microwave] 微波\n  [infrared] 红外线\n  [visible] 可见光\n  [ultraviolet] 紫外线\n  *[sunlight] 日光\n}"
+        }
+      },
+      "photonTarget": {
+        "value": "{ $photonTarget ->\n  [singleCOMolecule] { a11y_micro_carbonMonoxide }\n  [singleN2Molecule] { a11y_micro_nitrogen }\n  [singleO2Molecule] { a11y_micro_oxygen }\n  [singleCO2Molecule] { a11y_micro_carbonDioxide }\n  [singleCH4Molecule] { a11y_micro_methane }\n  [singleH2OMolecule] { a11y_micro_water }\n  [singleNO2Molecule] { a11y_micro_nitrogenDioxide }\n  *[singleO3Molecule] { a11y_micro_ozone }\n}"
+      },
+      "photonTargetCapitalized": {
+        "value": "{ $photonTarget ->\n  [singleCOMolecule] { a11y_micro_carbonMonoxideCapitalized }\n  [singleN2Molecule] { a11y_micro_nitrogenCapitalized }\n  [singleO2Molecule] { a11y_micro_oxygenCapitalized }\n  [singleCO2Molecule] { a11y_micro_carbonDioxideCapitalized }\n  [singleCH4Molecule] { a11y_micro_methaneCapitalized }\n  [singleH2OMolecule] { a11y_micro_waterCapitalized }\n  [singleNO2Molecule] { a11y_micro_nitrogenDioxideCapitalized }\n  *[singleO3Molecule] { a11y_micro_ozoneCapitalized }\n}"
+      },
+      "bendingRepresentation": {
+        "value": "{ $representation ->\n  [bendUpAndDown] { a11y_micro_bendUpAndDown }\n  *[stretchBackAndForth] { a11y_micro_stretchBackAndForth }\n}"
+      },
+      "excitedRepresentation": {
+        "value": "{ $representation ->\n  [rotatesClockwise] { a11y_micro_rotatesClockwise }\n  [rotatesCounterClockwise] { a11y_micro_rotatesCounterClockwise }\n  *[glows] { a11y_micro_glows }\n}"
+      },
+      "absorptionPhaseBondsDescriptionPattern": {
+        "value": "{ a11y_micro_lightSource_capitalized }光子被吸收，{ a11y_micro_photonTarget }分子的化学键{ a11y_micro_bendingRepresentation }。"
+      },
+      "absorptionPhaseMoleculeDescriptionPattern": {
+        "value": "{ a11y_micro_lightSource_capitalized }光子被吸收，{ a11y_micro_photonTarget }分子{ a11y_micro_excitedRepresentation }。"
+      },
+      "breakApartPhaseDescriptionPattern": {
+        "value": "{ a11y_micro_lightSource_capitalized }光子被吸收，{ a11y_micro_photonTarget }分子分解为{ $firstMolecule }和{ $secondMolecule }。"
+      },
+      "geometry": {
+        "value": "{ $geometry ->\n  [linear] 线性\n  [bent] 弯曲\n  [tetrahedral] 四面体\n  *[diatomic] 双原子\n}"
+      },
+      "geometryCapitalized": {
+        "value": "{ $geometry ->\n  [linear] 线性\n  [bent] 弯曲\n  [tetrahedral] 四面体\n  *[diatomic] 双原子\n}"
+      },
+      "geometryLabelPattern": {
+        "value": "该分子具有{ a11y_micro_geometry }几何构型。"
+      },
+      "linearGeometryDescription": {
+        "value": "线性，一种由两个或三个原子以直线形式键合的分子。键角为180度。"
+      },
+      "bentGeometryDescription": {
+        "value": "弯曲，一种中心原子与另外两个原子成角度键合的分子。键角在120度以下变化。"
+      },
+      "tetrahedralGeometryDescription": {
+        "value": "四面体，一种中心原子与另外四个原子键合形成四面体的分子，角度为109.5°，像四面骰子。"
+      },
+      "lightSourceButtonLabelPattern": {
+        "value": "{ a11y_micro_lightSource_capitalized }光源"
+      },
+      "lightSourceButtonPressedHelpText": {
+        "value": "关闭光源以停止光子。"
+      },
+      "lightSourceButtonUnpressedHelpText": {
+        "value": "打开光源以开始发射光子。"
+      },
+      "lightSources": {
+        "value": "光源"
+      },
+      "lightSourceRadioButtonHelpText": {
+        "value": "为观测窗口选择光源，按能量从低到高排列。"
+      },
+      "molecules": {
+        "value": "分子"
+      },
+      "moleculesRadioButtonHelpText": {
+        "value": "为观测窗口选择分子。"
+      },
+      "moleculeButtonLabelPattern": {
+        "value": "{ a11y_micro_photonTargetCapitalized }，{ $molecularFormula }，{ a11y_micro_geometryCapitalized }"
+      },
+      "emissionPhaseDescriptionPattern": {
+        "value": "被吸收的{ a11y_micro_lightSource_lowercase }光子从{ a11y_micro_photonTarget }分子{ a11y_micro_direction }发射出去。"
+      },
+      "shortStretchingAlert": {
+        "value": "正在伸缩。"
+      },
+      "longStretchingAlert": {
+        "value": "分子的化学键前后伸缩。"
+      },
+      "shortBendingAlert": {
+        "value": "正在弯曲。"
+      },
+      "longBendingAlert": {
+        "value": "分子的化学键上下弯曲。"
+      },
+      "shortRotatingAlert": {
+        "value": "正在旋转。"
+      },
+      "longRotatingAlert": {
+        "value": "分子旋转。"
+      },
+      "shortGlowingAlert": {
+        "value": "正在发光。"
+      },
+      "longGlowingAlert": {
+        "value": "分子发光。"
+      },
+      "breaksApartAlertPattern": {
+        "value": "分子分解为{ $firstMolecule }和{ $secondMolecule }。"
+      },
+      "pausedEmittingPattern": {
+        "value": "被吸收的光子从分子{ a11y_micro_direction }发射出去。"
+      },
+      "pausedPassingPattern": {
+        "value": "{ a11y_micro_lightSource_capitalized }光子穿过{ a11y_micro_photonTarget }分子。"
+      },
+      "slowMotionPassingPattern": {
+        "value": "{ a11y_micro_lightSource_capitalized }光子正在穿过{ a11y_micro_photonTarget }分子。"
+      },
+      "photonPasses": {
+        "value": "光子穿过。"
+      },
+      "photonsPassing": {
+        "value": "光子正在穿过。"
+      },
+      "slowMotionVibratingPattern": {
+        "value": "光子被吸收。分子的化学键{ a11y_micro_bendingRepresentation }。"
+      },
+      "shortExcitedRepresentation": {
+        "value": "{ $representation ->\n  [bendUpAndDown] 正在弯曲\n  [stretchBackAndForth] 正在伸缩\n  [rotatesClockwise] 正在顺时针旋转\n  [rotatesCounterClockwise] 正在逆时针旋转\n  [rotates] 正在旋转\n  *[glows] 正在发光\n}"
+      },
+      "slowMotionAbsorbedShortPattern": {
+        "value": "光子被吸收。{ a11y_micro_shortExcitedRepresentation }。"
+      },
+      "slowMotionAbsorbedMoleculeExcitedPattern": {
+        "value": "光子被吸收。分子{ a11y_micro_excitedRepresentation }。"
+      },
+      "slowMotionBreakApartPattern": {
+        "value": "光子被吸收。分子分解。{ $firstMolecule }和{ $secondMolecule }飘走。"
+      },
+      "moleculesFloatingAwayPattern": {
+        "value": "{ $firstMolecule }和{ $secondMolecule }正在飘走。"
+      },
+      "breakApartDescriptionWithFloatPattern": {
+        "value": "{ $description } { $floatDescription }"
+      },
+      "moleculePiecesGone": {
+        "value": "分子碎片已消失。重置或更换分子。"
+      },
+      "slowMotionEmittedPattern": {
+        "value": "光子{ a11y_micro_direction }发射出去。"
+      },
+      "resetOrChangeMolecule": {
+        "value": "重置或更换分子。"
+      },
+      "photonEmitterPhotonsOff": {
+        "value": "光子已关闭。"
+      },
+      "photonEmitterPhotonsOn": {
+        "value": "光子已开启。"
+      },
+      "photonEmitterPhotonsOnSlowSpeed": {
+        "value": "光子已开启，慢速。"
+      },
+      "photonEmitterPhotonsOnSimPaused": {
+        "value": "光子已开启。模拟已暂停。"
+      },
+      "photonEmitterPhotonsOnSlowSpeedSimPaused": {
+        "value": "光子已开启，慢速。模拟已暂停。"
+      },
+      "pausedPhotonEmittedPattern": {
+        "value": "{ a11y_micro_lightSource_capitalized }光子离开光源。"
+      },
+      "timeControlsSimPausedEmitterOnAlert": {
+        "value": "模拟已暂停。逐步前进以进行详细探索。"
+      },
+      "timeControlsSimPausedEmitterOffAlert": {
+        "value": "模拟已暂停。光源已关闭。"
+      },
+      "timeControlsSimPlayingHintAlert": {
+        "value": "打开光源以播放模拟。"
+      },
+      "timeControlsPlayPauseButtonPlayingWithSpeedDescription": {
+        "value": "暂停模拟以逐步前进，或以选定的速度继续播放模拟。"
+      },
+      "timeControlsPlayPauseButtonPausedWithSpeedDescription": {
+        "value": "逐步前进，或以选定的速度播放模拟。"
+      },
+      "timeControlsStepHintAlert": {
+        "value": "打开光源以使用逐步前进。"
+      },
+      "spectrumButtonLabel": {
+        "value": "光谱图"
+      },
+      "spectrumButtonDescription": {
+        "value": "查看完整光谱的详细信息。"
+      },
+      "spectrumWindowDescription": {
+        "value": "光谱显示不同类别光波的相对能量，以其特征波长（以米为单位）和频率（以赫兹或秒的倒数为单位）定义。"
+      },
+      "spectrumWindowEnergyDescription": {
+        "value": "从最低能量（最低频率和最大波长）到最高能量（最高频率和最小波长）的顺序为：无线电波、微波、红外线、可见光、紫外线、X射线和伽马射线。"
+      },
+      "spectrumWindowSinWaveDescription": {
+        "value": "一条正弦波，从无线电波到伽马射线，波长（以波峰到波峰的距离测量）递减，频率（以单位时间内的波数测量）递增。"
+      },
+      "spectrumWindowLabelledSpectrumLabel": {
+        "value": "频率和波长范围"
+      },
+      "spectrumWindowLabelledSpectrumDescription": {
+        "value": "各光谱的频率和波长范围详情，从最低能量到最高能量排列："
+      },
+      "spectrumWindowLabelledSpectrumRadioLabel": {
+        "value": "无线电波，范围大："
+      },
+      "spectrumWindowLabelledSpectrumMicrowaveLabel": {
+        "value": "微波，范围中等："
+      },
+      "spectrumWindowLabelledSpectrumInfraredLabel": {
+        "value": "红外线，范围中等："
+      },
+      "spectrumWindowLabelledSpectrumVisibleLabel": {
+        "value": "可见光，范围极小："
+      },
+      "spectrumWindowLabelledSpectrumUltravioletLabel": {
+        "value": "紫外线，范围小："
+      },
+      "spectrumWindowLabelledSpectrumXrayLabel": {
+        "value": "X射线，范围中等："
+      },
+      "spectrumWindowLabelledSpectrumGammaRayLabel": {
+        "value": "伽马射线，范围中等："
+      },
+      "spectrumWindowLabelledSpectrumRadioFrequencyDescription": {
+        "value": "频率小于10的4次方赫兹到10的9次方赫兹。"
+      },
+      "spectrumWindowLabelledSpectrumRadioWavelengthDescription": {
+        "value": "波长大于10的4次方米到5乘以10的负1次方米。"
+      },
+      "spectrumWindowLabelledSpectrumMicrowaveFrequencyDescription": {
+        "value": "频率10的9次方到5乘以10的11次方赫兹。"
+      },
+      "spectrumWindowLabelledSpectrumMicrowaveWavelengthDescription": {
+        "value": "波长10的负1次方到10的负3次方米。"
+      },
+      "spectrumWindowLabelledSpectrumInfraredFrequencyDescription": {
+        "value": "频率5乘以10的11次方到4乘以10的14次方赫兹。"
+      },
+      "spectrumWindowLabelledSpectrumInfraredWavelengthDescription": {
+        "value": "波长10的负3次方到7乘以10的负7次方米。"
+      },
+      "spectrumWindowLabelledSpectrumVisibleFrequencyDescription": {
+        "value": "频率4乘以10的14次方到7乘以10的14次方赫兹。"
+      },
+      "spectrumWindowLabelledSpectrumVisibleWavelengthDescription": {
+        "value": "波长7乘以10的负7次方到4乘以10的负7次方米。"
+      },
+      "spectrumWindowLabelledSpectrumVisibleGraphicalDescription": {
+        "value": "以彩虹形式显示，从红色开始到紫色结束（红、黄、绿、蓝、靛、紫）。"
+      },
+      "spectrumWindowLabelledSpectrumUltravioletFrequencyDescription": {
+        "value": "频率10的15次方到10的16次方赫兹。"
+      },
+      "spectrumWindowLabelledSpectrumUltravioletWavelengthDescription": {
+        "value": "波长4乘以10的负7次方到10的负8次方米。"
+      },
+      "spectrumWindowLabelledSpectrumXrayFrequencyDescription": {
+        "value": "频率10的16次方到10的19次方赫兹。"
+      },
+      "spectrumWindowLabelledSpectrumXrayWavelengthDescription": {
+        "value": "波长10的负8次方到5乘以10的负11次方米。"
+      },
+      "spectrumWindowLabelledSpectrumGammaRayFrequencyDescription": {
+        "value": "频率10的19次方赫兹到大于10的20次方赫兹。"
+      },
+      "spectrumWindowLabelledSpectrumGammaRayWavelengthDescription": {
+        "value": "波长5乘以10的负11次方米到小于10的负12次方米。"
+      }
+    }
+  }
+}

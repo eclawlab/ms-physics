@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+  When launched, it should iterate through all active simulations and test each for any errors with fuzzing.
+  Red indicates an error
+  Orange indicates it couldn't be loaded at all
+  Green indicates no errors were found within this session
+-->
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <title>Simulation tests</title>
+
+  <style type="text/css">
+    body {
+      margin: 10px;
+      padding: 0;
+    }
+
+    html {
+      margin: 0;
+      padding: 0;
+    }
+
+    .multi-frames {
+      overflow-x: scroll;
+      display: flex;
+      height: 260px;
+    }
+
+    iframe {
+      width: 320px;
+      height: 240px;
+      border: 1px solid #888;
+    }
+
+    h1 {
+      margin-top: 0;
+      margin-bottom: 25px;
+      font-size: 26px;
+    }
+
+    #eventLog {
+      position: absolute;
+      left: 10px;
+      top: 10px;
+      margin-left: 330px;
+      border: 1px solid #888;
+      padding: 10px;
+    }
+
+    #simList {
+      width: 320px;
+      border: 1px solid #888;
+    }
+
+    /* all status items */
+    .status {
+      font-family: Arial, sans-serif;
+      font-size: 80%;
+      line-height: 80%;
+      padding: 0.3em;
+    }
+
+    .status .repo {
+      padding-left: 10px;
+    }
+
+    .status .dev {
+      color: #888;
+    }
+
+    .unselectable {
+      -webkit-user-select: none; /* Safari */
+      -moz-user-select: none; /* Firefox */
+      -ms-user-select: none; /* IE10+/Edge */
+      user-select: none; /* Standard */
+    }
+
+    /* loading */
+    .status.loading-dev .dev {
+      color: #6666ff;
+    }
+
+    /* complete (without error or loading) */
+    .status.complete-dev .dev {
+      color: #00dd00;
+    }
+
+    /* complete but without finished loading (specificity to override) */
+    .status.complete-dev.loading-dev .dev {
+      color: #ff8800;
+    }
+
+    /* error (complete or not, specificity to override) */
+    .status.error-dev .dev, .status.complete-dev.error .dev {
+      color: #ff0000;
+    }
+
+    /* have 'loading' text when it hasn't sent the 'load' postMessage yet */
+    .status.loading::after {
+      content: " (loading)";
+    }
+
+    /* complete (no errors, not important) */
+    .status.complete-dev {
+      background-color: #ccffcc;
+    }
+
+    /* error (complete or not). uses specificity to override complete */
+    .status.error-dev, .status.loading-dev.complete-dev {
+      background-color: #ffcccc !important;
+    }
+  </style>
+</head>
+
+<body>
+<div id="iframes"></div>
+<script src="../../sherpa/lib/lodash-4.17.4.min.js"></script>
+<script src="../../assert/js/assert.js"></script>
+<script src="../../query-string-machine/js/QueryStringMachine.js"></script>
+<script src="../../chipper/js/browser/initialize-globals.js"></script>
+
+<script src="../../sherpa/lib/source-map-0.7.3.js"></script>
+<script src="../../sherpa/lib/stack-trace-parser-0.1.7.js"></script>
+<script src="../js/client/transpileStacktrace.js"></script>
+
+<script type="module" src="../../chipper/dist/js/aqua/js/browser-tools/fuzz-lightyear.js"></script>
+</body>
+</html>

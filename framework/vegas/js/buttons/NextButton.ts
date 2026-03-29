@@ -1,0 +1,20 @@
+// Copyright 2025-2026, University of Colorado Boulder
+
+/**
+ * A button component for moving to the next challenge in a game.
+ *
+ * This button provides default accessibility content, including an accessible name.
+ *
+ * @author Jesse Greenberg (PhET Interactive Simulations)
+ */
+
+import TextPushButton, { TextPushButtonOptions } from '../../../sun/js/buttons/TextPushButton.js';
+import VegasStrings from '../VegasStrings.js';
+
+export type NextButtonOptions = TextPushButtonOptions;
+
+export default class NextButton extends TextPushButton {
+  public constructor( providedOptions?: NextButtonOptions ) {
+    super( VegasStrings.nextStringProperty, providedOptions );
+  }
+}

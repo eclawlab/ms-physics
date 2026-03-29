@@ -1,0 +1,20 @@
+{
+  "buoyancy.title": {
+    "value": "浮力"
+  },
+  "screen.compare": {
+    "value": "比较"
+  },
+  "screen.explore": {
+    "value": "探索"
+  },
+  "screen.lab": {
+    "value": "实验室"
+  },
+  "screen.shapes": {
+    "value": "形状"
+  },
+  "screen.applications": {
+    "value": "应用"
+  }
+}

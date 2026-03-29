@@ -1,0 +1,208 @@
+{
+  "mean-share-and-balance.title": {
+    "value": "平均值：分享与平衡"
+  },
+  "screen.levelOut": {
+    "value": "拉平"
+  },
+  "screen.distribute": {
+    "value": "分配"
+  },
+  "screen.fairShare": {
+    "value": "公平分配"
+  },
+  "screen.balancePoint": {
+    "value": "平衡点"
+  },
+  "predictMean": {
+    "value": "预测平均值"
+  },
+  "mean": {
+    "value": "平均值"
+  },
+  "tickMarks": {
+    "value": "刻度线"
+  },
+  "sync": {
+    "value": "同步"
+  },
+  "collect": {
+    "value": "收集"
+  },
+  "share": {
+    "value": "分享"
+  },
+  "numberOfCups": {
+    "value": "杯子数量"
+  },
+  "introQuestion": {
+    "value": "每个容器的平均水量是多少？"
+  },
+  "distributeQuestion": {
+    "value": "每人平均有多少根糖果棒？"
+  },
+  "fairShareQuestion": {
+    "value": "每人平均有多少个苹果？"
+  },
+  "numberOfPeople": {
+    "value": "人数"
+  },
+  "meanEqualSignPattern": {
+    "value": "平均值 {{equals}} "
+  },
+  "totalCandyBarsPattern": {
+    "value": "总计 = {{total}} 根糖果{{measurement}}"
+  },
+  "bar": {
+    "value": "棒"
+  },
+  "bars": {
+    "value": "棒"
+  },
+  "totalApplesPattern": {
+    "value": "总计 = {{total}} {{measurement}}"
+  },
+  "apple": {
+    "value": "个苹果"
+  },
+  "apples": {
+    "value": "个苹果"
+  },
+  "totalDistancePattern": {
+    "value": "总距离 = {{total}} m"
+  },
+  "balancePointQuestion": {
+    "value": "平均踢球距离是多少？"
+  },
+  "numberOfBalls": {
+    "value": "球的数量"
+  },
+  "check": {
+    "value": "检查"
+  },
+  "reset": {
+    "value": "重置"
+  },
+  "remainderPattern": {
+    "value": "{{wholeNumber}}，余数 {{remainder}}"
+  },
+  "total": {
+    "value": "总计"
+  },
+  "keyboardHelpDialog.balancePointScreen.sliderControlHeading": {
+    "value": "支点平衡点"
+  },
+  "keyboardHelpDialog.balancePointScreen.sliderVerb": {
+    "value": "移动"
+  },
+  "keyboardHelpDialog.balancePointScreen.sliderNoun": {
+    "value": "支点三角形"
+  },
+  "keyboardHelpDialog.balancePointScreen.numberSpinnerHeading": {
+    "value": "人数"
+  },
+  "keyboardHelpDialog.numberSpinnerVerb": {
+    "value": "更改"
+  },
+  "keyboardHelpDialog.numberSpinnerNoun": {
+    "value": "数量"
+  },
+  "keyboardHelpDialog.fairShareScreen.numberSpinnerHeading": {
+    "value": "苹果或人数"
+  },
+  "keyboardHelpDialog.distributeScreen.numberSpinnerHeading": {
+    "value": "糖果棒或人数"
+  },
+  "keyboardHelpDialog.distributeScreen.sliderControlHeading": {
+    "value": "预测平均值"
+  },
+  "keyboardHelpDialog.distributeScreen.sliderControlNoun": {
+    "value": "预测标记"
+  },
+  "keyboardHelpDialog.distributeScreen.grabOrReleaseItemHeading": {
+    "value": "记事本糖果棒"
+  },
+  "keyboardHelpDialog.distributeScreen.grabOrReleaseItem": {
+    "value": "糖果棒"
+  },
+  "keyboardHelpDialog.distributeScreen.moveHeading": {
+    "value": "移动记事本糖果棒"
+  },
+  "keyboardHelpDialog.distributeScreen.moveDescription": {
+    "value": "移动已抓取的糖果棒"
+  },
+  "keyboardHelpDialog.levelOutScreen.numberSpinnerHeading": {
+    "value": "杯子数量"
+  },
+  "keyboardHelpDialog.levelOutScreen.sliderControlHeading": {
+    "value": "水位或平均值预测"
+  },
+  "keyboardHelpDialog.levelOutScreen.sliderControlNoun": {
+    "value": "水位或预测标记"
+  },
+  "a11y": {
+    "predictBalancePoint": {
+      "value": "预测平衡点"
+    },
+    "observeBalancePoint": {
+      "value": "观察平衡点"
+    },
+    "totalDistance": {
+      "value": "总距离"
+    },
+    "findBalancePoint": {
+      "value": "找到平衡点"
+    },
+    "predictionMark": {
+      "value": "预测标记"
+    },
+    "info": {
+      "value": "信息"
+    },
+    "totalNumberPattern": {
+      "value": "{{snack}}总数"
+    },
+    "apples": {
+      "value": "苹果"
+    },
+    "candyBars": {
+      "value": "糖果棒"
+    },
+    "personSnackPattern": {
+      "value": "第 {{index}} 个人的{{snack}}"
+    },
+    "pipeFlow": {
+      "value": "管道流量"
+    },
+    "cupWaterLevelPattern": {
+      "value": "第 {{index}} 个杯子的水位"
+    },
+    "checkBalance": {
+      "value": "检查平衡"
+    },
+    "resetPillars": {
+      "value": "重置柱子"
+    },
+    "noCandyBarsToGrab": {
+      "value": "没有可抓取的糖果棒"
+    },
+    "sortingCandyBarPattern": {
+      "value": "第 {{currentStack}} 堆，共 {{totalStacks}} 堆，移动 {{stackHeight}} 根糖果棒中最上面的"
+    },
+    "selectingCandyBarPattern": {
+      "value": "第 {{currentStack}} 堆，共 {{totalStacks}} 堆，{{stackHeight}} 根糖果棒中最上面的"
+    },
+    "closePipe": {
+      "value": "关闭管道"
+    },
+    "openPipe": {
+      "value": "打开管道"
+    },
+    "fulcrumOptions": {
+      "value": "支点选项"
+    },
+    "appleActions": {
+      "value": "苹果操作"
+    }
+  }
+}

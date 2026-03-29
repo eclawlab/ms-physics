@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.idea
+clientConfig.js
+dist
+node_modules
+package-lock.json
+publicConfig.js
+publicConfig.ts
+simMetadata.json
+translationInfo.json
+localeInfo.json
+translationFormData.json
+rosetta.log
+reportObjectCache.log

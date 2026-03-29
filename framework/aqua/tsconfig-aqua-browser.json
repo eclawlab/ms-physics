@@ -1,0 +1,15 @@
+{
+  // This is the tsconfig for browser files, for node files, see within each node-like subdirectory.
+  "extends": "../perennial-alias/tsconfig/tsconfig-browser.json",
+  "include": [
+    "js/browser-tools/**/*",
+    "js/client/**/*",
+    "js/report/**/*",
+    "js/*"
+  ],
+  "references": [
+    {
+      "path": "../perennial-alias/tsconfig/buildjson/tsconfig.json"
+    }
+  ]
+}

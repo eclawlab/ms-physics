@@ -1,0 +1,9 @@
+// Copyright 2022-2026, University of Colorado Boulder
+
+/**
+ * Used by the manually-built phet-lib package.
+ *
+ * @author Jonathan Olson (PhET Interactive Simulations)
+ */
+
+/* eslint-disable phet/default-import-match-filename,no-unused-vars,bad-sim-text */

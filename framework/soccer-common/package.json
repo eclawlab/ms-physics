@@ -1,0 +1,31 @@
+{
+  "name": "soccer-common",
+  "version": "1.0.0-dev.0",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/soccer-common.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "requirejsNamespace": "SOCCER_COMMON",
+    "phetLibs": [
+      "bamboo",
+      "twixt"
+    ],
+    "supportsOutputJS": true,
+    "simFeatures": {
+      "supportsDynamicLocale": true,
+      "supportedRegionsAndCultures": [
+        "usa",
+        "africa",
+        "africaModest",
+        "asia",
+        "latinAmerica",
+        "oceania"
+      ]
+    }
+  }
+}

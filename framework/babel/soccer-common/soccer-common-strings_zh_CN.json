@@ -1,0 +1,40 @@
+{
+  "needAtLeastOneKick": {
+    "value": "至少需要踢一次"
+  },
+  "kick": {
+    "value": "踢"
+  },
+  "keyboardHelpDialog.grabOrReleaseItemHeading": {
+    "value": "足球"
+  },
+  "keyboardHelpDialog.grabOrReleaseItem": {
+    "value": "足球"
+  },
+  "keyboardHelpDialog.moveHeading": {
+    "value": "移动足球"
+  },
+  "keyboardHelpDialog.moveDescription": {
+    "value": "移动已抓取的足球"
+  },
+  "a11y": {
+    "grabSoccerBall": {
+      "value": "抓取足球"
+    },
+    "noSoccerBallsToGrab": {
+      "value": "没有可抓取的足球"
+    },
+    "sortingSoccerBallPattern": {
+      "value": "第 {{currentMeter}} 米，共 {{totalMeters}} 米，移动 {{stackHeight}} 个足球中最上面的"
+    },
+    "selectingSoccerBallPattern": {
+      "value": "第 {{currentMeter}} 米，共 {{totalMeters}} 米，{{stackHeight}} 个足球中最上面的"
+    },
+    "soccerBallHelpText": {
+      "value": "抓取最上面的足球。抓取后，使用键盘快捷键更改踢球距离。"
+    },
+    "movable": {
+      "value": "可移动"
+    }
+  }
+}

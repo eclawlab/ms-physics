@@ -1,0 +1,142 @@
+// Copyright 2022-2026, University of Colorado Boulder
+
+/**
+ * GameInfoDialog shows descriptions for the levels of a game.  Each description is on a separate line.
+ * If the simulation supports the gameLevels query parameter (see getGameLevelsSchema.ts) the caller
+ * can optionally provide options.gameLevels to control which descriptions are visible.
+ *
+ * @author Chris Malley (PixelZoom, Inc.)
+ */
+
+import { TReadOnlyProperty } from '../../axon/js/TReadOnlyProperty.js';
+import ScreenView from '../../joist/js/ScreenView.js';
+import assertMutuallyExclusiveOptions from '../../phet-core/js/assertMutuallyExclusiveOptions.js';
+import optionize, { EmptySelfOptions } from '../../phet-core/js/optionize.js';
+import StrictOmit from '../../phet-core/js/types/StrictOmit.js';
+import PhetFont from '../../scenery-phet/js/PhetFont.js';
+import VBox, { VBoxOptions } from '../../scenery/js/layout/nodes/VBox.js';
+import Node from '../../scenery/js/nodes/Node.js';
+import RichText, { RichTextOptions } from '../../scenery/js/nodes/RichText.js';
+import Text, { TextOptions } from '../../scenery/js/nodes/Text.js';
+import Dialog, { DialogOptions } from '../../sun/js/Dialog.js';
+import Tandem from '../../tandem/js/Tandem.js';
+import VegasFluent from './VegasFluent.js';
+
+const DEFAULT_DESCRIPTION_TEXT_FONT = new PhetFont( 24 );
+const DEFAULT_TITLE_TEXT_FONT = new PhetFont( { size: 32, weight: 'bold' } );
+
+type SelfOptions = {
+
+  // Game levels whose descriptions should be visible in the dialog. Levels are numbered starting from 1.
+  // Set this to the value of the gameLevels query parameter, a required query parameter.
+  // See getGameLevelsSchema.ts and example use in WaveGameInfoDialog.
+  gameLevels: number[];
+
+  // Options for the description text nodes
+  descriptionTextOptions?: StrictOmit<RichTextOptions, 'tandem'>;
+
+  // Options for the title Text. Mutually exclusive with options.title. If you need a fully custom title, use
+  // that option instead. Otherwise, this option is preferred and uses a default string.
+  titleTextOptions?: StrictOmit<TextOptions, 'tandem'>;
+
+  // Visible properties for the game levels, used to control visibility of the descriptions.
+  descriptionVisibleProperties?: TReadOnlyProperty<boolean>[];
+
+  // Options for the layout (VBox)
+  vBoxOptions?: StrictOmit<VBoxOptions, 'children' | 'maxWidth'>;
+
+  // constrains the width of the Dialog's content and title
+  maxContentWidth?: number;
+};
+
+export type GameInfoDialogOptions = SelfOptions & DialogOptions;
+
+export default class GameInfoDialog extends Dialog {
+
+  private readonly disposeGameInfoDialog: () => void;
+
+  /**
+   * @param levelDescriptions - level descriptions, in order of ascending level number
+   * @param providedOptions
+   */
+  public constructor( levelDescriptions: ( string | TReadOnlyProperty<string> )[], providedOptions?: GameInfoDialogOptions ) {
+
+    // titleTextOptions are only used with the default title Node. If you create your own title, style it yourself.
+    assert && assertMutuallyExclusiveOptions( providedOptions, [ 'title' ], [ 'titleTextOptions' ] );
+
+    const options = optionize<GameInfoDialogOptions, StrictOmit<SelfOptions, 'gameLevels'>, DialogOptions>()( {
+      descriptionTextOptions: {
+        font: DEFAULT_DESCRIPTION_TEXT_FONT,
+
+        // pdom - each description is a list item under a parent unordered list
+        tagName: 'li'
+      },
+      titleTextOptions: {
+        font: DEFAULT_TITLE_TEXT_FONT
+      },
+      descriptionVisibleProperties: [],
+      vBoxOptions: {
+        align: 'left',
+        spacing: 20
+      },
+      maxContentWidth: 0.75 * ScreenView.DEFAULT_LAYOUT_BOUNDS.width,
+      tandem: Tandem.REQUIRED
+    }, providedOptions );
+
+    // User may provide their own title. If not, create a default with the provided titleTextOptions. If explicitly
+    // set to null, no title will be shown.
+    if ( options.title === undefined ) {
+      options.title = new Text( VegasFluent.levelsStringProperty, options.titleTextOptions );
+    }
+
+    // Constrain the width of the title, and ensure that the title can still be used with scenery DAG feature.
+    if ( options.title ) {
+      options.title = new Node( {
+        children: [ options.title ],
+        maxWidth: options.maxContentWidth
+      } );
+    }
+
+    const descriptionNodes = levelDescriptions.map( ( levelDescription, index ) =>
+      new RichText( levelDescription, optionize<RichTextOptions, EmptySelfOptions, RichTextOptions>()( {
+        tandem: options.tandem.createTandem( `level${index}DescriptionText` ),
+        accessibleName: levelDescription,
+
+        // If visibleProperties are provided, use them to control visibility of the description.
+        visibleProperty: options.descriptionVisibleProperties && options.descriptionVisibleProperties[ index ] ?
+                         options.descriptionVisibleProperties[ index ] : null
+      }, options.descriptionTextOptions ) )
+    );
+
+    // Hide descriptions for levels that are not included in options.gameLevels.
+    // We must still create these Nodes so that the PhET-iO API is not changed.
+    // While options.gameLevels is required, this guard is provided for .js sims that do not comply.
+    if ( options.gameLevels ) {
+      assert && assert( _.every( options.gameLevels, gameLevel => ( Number.isInteger( gameLevel ) && gameLevel > 0 ) ),
+        'gameLevels must be positive integers' );
+      descriptionNodes.forEach( ( node, index ) => {
+        node.visible = options.gameLevels.includes( index + 1 );
+      } );
+    }
+
+    // Vertical layout
+    const content = new VBox( optionize<VBoxOptions, EmptySelfOptions, VBoxOptions>()( {
+      children: descriptionNodes,
+      maxWidth: options.maxContentWidth, // scale all descriptions uniformly
+
+      // pdom - the descriptions are listed in an unordered list
+      tagName: 'ul'
+    }, options.vBoxOptions ) );
+
+    super( content, options );
+
+    this.disposeGameInfoDialog = () => {
+      descriptionNodes.forEach( node => node.dispose() );
+    };
+  }
+
+  public override dispose(): void {
+    this.disposeGameInfoDialog();
+    super.dispose();
+  }
+}

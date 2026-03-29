@@ -1,0 +1,22 @@
+{
+  "name": "binder",
+  "version": "1.0.0-yamldocs.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/binder.git"
+  },
+  "scripts": {
+    "build": "bash ../perennial/bin/sage run js/generate.js",
+    "build-html": "bash ../perennial/bin/sage run js/createHTMLString.js json ./binderjson.json > ./docs/index.html"
+  },
+  "devDependencies": {
+    "fs-extra": "~6.0.1",
+    "gray-matter": "~4.0.1",
+    "grunt": "~1.5.3",
+    "handlebars": "~4.0.11",
+    "marked": "~0.3.19",
+    "puppeteer": "~19.2.2"
+  },
+  "phet": {}
+}

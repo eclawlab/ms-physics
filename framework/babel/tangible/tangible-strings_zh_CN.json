@@ -1,0 +1,61 @@
+{
+  "tangible.title": {
+    "value": "实物演示"
+  },
+  "cameraInputHands": {
+    "value": "摄像头输入：手势"
+  },
+  "inputDevice": {
+    "value": "输入设备："
+  },
+  "cameraInputRequiresInternet": {
+    "value": "摄像头输入需要互联网连接。"
+  },
+  "noMediaDevices": {
+    "value": "没有可用的媒体设备"
+  },
+  "noMediaDevice": {
+    "value": "没有可用的媒体设备。是否正被其他程序使用？"
+  },
+  "errorLoadingCameraInputHands": {
+    "value": "加载摄像头输入：手势时出错"
+  },
+  "cameraInputHandsHelpText": {
+    "value": "使用自定义手势来控制模拟。"
+  },
+  "cameraInputFlipX": {
+    "value": "翻转摄像头 X 轴。"
+  },
+  "cameraInputFlipXHeading": {
+    "value": "你的手是否使模拟中的手向错误方向移动？"
+  },
+  "cameraInputFlipY": {
+    "value": "翻转摄像头 Y 轴。"
+  },
+  "cameraInputFlipYHeading": {
+    "value": "你的手是否映射到了错误的模拟手？"
+  },
+  "troubleshootingCameraInputHands": {
+    "value": "摄像头输入故障排除：手势"
+  },
+  "troubleshootingParagraph": {
+    "value": "如有需要，请使用以下选项更改模拟手的行为，以匹配你的手部动作。"
+  },
+  "a11y": {
+    "cameraInputFlipXChecked": {
+      "value": "摄像头 X 轴已翻转。"
+    },
+    "cameraInputFlipXUnchecked": {
+      "value": "摄像头 X 轴未翻转。"
+    },
+    "cameraInputFlipYChecked": {
+      "value": "摄像头 Y 轴已翻转。"
+    },
+    "cameraInputFlipYUnchecked": {
+      "value": "摄像头 Y 轴未翻转。"
+    },
+    "inputDeviceNameResponsePattern": {
+      "value": "输入设备：{{value}}"
+    }
+  }
+}

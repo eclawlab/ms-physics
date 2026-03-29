@@ -1,0 +1,30 @@
+{
+  "name": "alpenglow",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/alpenglow.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3",
+    "thimbleberry": "^0.2.1",
+    "vite": "^4.5.0",
+    "citation-js": "^0.7.4",
+    "@citation-js/plugin-csl": "^0.7.2"
+  },
+  "phet": {
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet"
+    ],
+    "generatedUnitTests": true,
+    "requirejsNamespace": "ALPENGLOW",
+    "buildStandalone": true,
+    "requiresLodash": true,
+    "preload": [
+      "../sherpa/lib/flatqueue-1.2.1.js"
+    ],
+    "supportsOutputJS": true
+  }
+}

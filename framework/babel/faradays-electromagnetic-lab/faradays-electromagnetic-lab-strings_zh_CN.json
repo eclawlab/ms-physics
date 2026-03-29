@@ -1,0 +1,152 @@
+{
+  "faradays-electromagnetic-lab.title": {
+    "value": "法拉第电磁实验室"
+  },
+  "screen.barMagnet": {
+    "value": "条形磁铁"
+  },
+  "screen.pickupCoil": {
+    "value": "感应线圈"
+  },
+  "screen.electromagnet": {
+    "value": "电磁铁"
+  },
+  "screen.transformer": {
+    "value": "变压器"
+  },
+  "screen.generator": {
+    "value": "发电机"
+  },
+  "barMagnet": {
+    "value": "条形磁铁"
+  },
+  "strength": {
+    "value": "强度："
+  },
+  "seeInside": {
+    "value": "查看内部"
+  },
+  "flipPolarity": {
+    "value": "翻转极性"
+  },
+  "flipEarth": {
+    "value": "翻转地球"
+  },
+  "earth": {
+    "value": "地球"
+  },
+  "magneticField": {
+    "value": "磁场 (B)"
+  },
+  "compass": {
+    "value": "指南针"
+  },
+  "fieldMeter": {
+    "value": "场强计"
+  },
+  "lockToAxis": {
+    "value": "锁定到轴"
+  },
+  "electrons": {
+    "value": "电子"
+  },
+  "conventionalCurrent": {
+    "value": "传统电流"
+  },
+  "pickupCoil": {
+    "value": "感应线圈"
+  },
+  "indicator": {
+    "value": "指示器"
+  },
+  "voltage": {
+    "value": "电压"
+  },
+  "loops": {
+    "value": "匝数："
+  },
+  "loopArea": {
+    "value": "线圈面积："
+  },
+  "electromagnet": {
+    "value": "电磁铁"
+  },
+  "currentSource": {
+    "value": "电流<br>源"
+  },
+  "acPowerSupply": {
+    "value": "交流电源"
+  },
+  "dcPowerSupply": {
+    "value": "直流电源"
+  },
+  "batteryVoltage": {
+    "value": "电池电压："
+  },
+  "pattern.valuePercent": {
+    "value": "{{value}}%"
+  },
+  "pattern.valueUnits": {
+    "value": "{{value}} {{units}}"
+  },
+  "pattern.almostValueUnits": {
+    "value": "~ {{value}} {{units}}"
+  },
+  "pattern.valueDegrees": {
+    "value": "{{value}}°"
+  },
+  "symbol.N": {
+    "value": "N"
+  },
+  "symbol.S": {
+    "value": "S"
+  },
+  "symbol.B": {
+    "value": "B"
+  },
+  "symbol.x": {
+    "value": "x"
+  },
+  "symbol.y": {
+    "value": "y"
+  },
+  "units.G": {
+    "value": "G"
+  },
+  "units.T": {
+    "value": "T"
+  },
+  "units.RPM": {
+    "value": "RPM"
+  },
+  "units.V": {
+    "value": "V"
+  },
+  "magneticUnits": {
+    "value": "磁场单位"
+  },
+  "gaussPreference": {
+    "value": "G（高斯）"
+  },
+  "teslaPreference": {
+    "value": "T（特斯拉）"
+  },
+  "currentFlow": {
+    "value": "电流方向"
+  },
+  "electronPreference": {
+    "value": "电子流"
+  },
+  "conventionalPreference": {
+    "value": "传统电流"
+  },
+  "addEarthCheckbox": {
+    "value": "添加"地球"复选框"
+  },
+  "addEarthCheckboxDescription": {
+    "value": "在相关屏幕上添加"地球"复选框。"
+  },
+  "earthHemisphere": {
+    "value": "地球半球"
+  }
+}

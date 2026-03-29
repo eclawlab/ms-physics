@@ -1,0 +1,74 @@
+{
+  "sound-waves.title": {
+    "value": "声波"
+  },
+  "screen.singleSource": {
+    "value": "简介"
+  },
+  "screen.measure": {
+    "value": "测量"
+  },
+  "measure.clearWaves": {
+    "value": "清除波"
+  },
+  "screen.twoSource": {
+    "value": "双声源"
+  },
+  "screen.reflection": {
+    "value": "反射"
+  },
+  "atm": {
+    "value": "ATM"
+  },
+  "zero": {
+    "value": "0.0"
+  },
+  "one": {
+    "value": "1.0"
+  },
+  "hzPattern": {
+    "value": "{{value}} Hz"
+  },
+  "screen.airPressure": {
+    "value": "气压"
+  },
+  "audioControlPanel.title": {
+    "value": "音频控制"
+  },
+  "audioControlPanel.audioEnabled": {
+    "value": "听者音频"
+  },
+  "soundModeControlPanel.title": {
+    "value": "声音模式"
+  },
+  "soundModeControlPanel.continuous": {
+    "value": "连续"
+  },
+  "soundModeControlPanel.pulse": {
+    "value": "脉冲"
+  },
+  "soundModeControlPanel.firePulse": {
+    "value": "发射脉冲"
+  },
+  "reflectionControlPanel.positionSlider": {
+    "value": "墙壁位置"
+  },
+  "reflectionControlPanel.rotationSlider": {
+    "value": "墙壁角度"
+  },
+  "airDensityControlPanel.title": {
+    "value": "盒中空气密度"
+  },
+  "airDensityControlPanel.reset": {
+    "value": "重置"
+  },
+  "amplitude": {
+    "value": "振幅"
+  },
+  "frequency": {
+    "value": "频率"
+  },
+  "meters": {
+    "value": "m"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ms-physics-tutor",
+  "version": "1.0.0",
+  "description": "Middle School Physics Tutor Server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.0" },
+  "license": "ISC"
+}

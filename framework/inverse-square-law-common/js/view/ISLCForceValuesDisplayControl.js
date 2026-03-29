@@ -1,0 +1,99 @@
+// Copyright 2019-2026, University of Colorado Boulder
+
+/**
+ * Aqua radio buttons with a heading that controls the display type for the force values.
+ *
+ * @author Michael Kauzmann (PhET Interactive Simulations)
+ */
+
+import merge from '../../../phet-core/js/merge.js';
+import PhetFont from '../../../scenery-phet/js/PhetFont.js';
+import VBox from '../../../scenery/js/layout/nodes/VBox.js';
+import Text from '../../../scenery/js/nodes/Text.js';
+import VerticalAquaRadioButtonGroup from '../../../sun/js/VerticalAquaRadioButtonGroup.js';
+import Tandem from '../../../tandem/js/Tandem.js';
+import InverseSquareLawCommonStrings from '../InverseSquareLawCommonStrings.js';
+import ISLCConstants from '../ISLCConstants.js';
+import ForceValuesDisplayEnum from '../model/ForceValuesDisplayEnum.js';
+
+// constants
+const decimalNotationString = InverseSquareLawCommonStrings.decimalNotation;
+const forceValuesString = InverseSquareLawCommonStrings.forceValues;
+const hiddenString = InverseSquareLawCommonStrings.hidden;
+const scientificNotationString = InverseSquareLawCommonStrings.scientificNotation;
+const forceValuesHelpTextString = InverseSquareLawCommonStrings.a11y.forceValuesHelpText;
+
+const TEXT_TANDEM_NAME = 'labelText';
+
+class ISLCForceValuesDisplayControl extends VBox {
+
+  /**
+   * @param {EnumerationDeprecatedProperty.<ForceValuesDisplayEnum>} forceValuesDisplayProperty
+   * @param {Object} [options]
+   */
+  constructor( forceValuesDisplayProperty, options ) {
+
+    options = merge( {
+      align: 'left',
+      spacing: 5,
+      preventFit: true, // workaround for minor pixel changes in https://github.com/phetsims/gravity-force-lab/issues/101
+      tandem: Tandem.REQUIRED
+    }, options );
+
+    assert && assert( options.children === undefined, 'sets its own children' );
+
+    const forceValuesGroupTandem = options.tandem.createTandem( 'forceValuesRadioButtonGroup' );
+
+    // create these "throw away" Tandems in order to have the proper nesting inside the radio button group. This is
+    // result of two patterns conflicting: dependency injection for content Nodes and lazy Tandem creation by the
+    // component.
+    const radioButtonContent = [
+      {
+        value: ForceValuesDisplayEnum.DECIMAL,
+        createNode: tandem => new Text( decimalNotationString, merge( {}, ISLCConstants.UI_TEXT_OPTIONS, {
+          tandem: tandem.createTandem( TEXT_TANDEM_NAME )
+        } ) ),
+        tandemName: 'decimalNotationRadioButton',
+        options: {
+          accessibleName: decimalNotationString
+        }
+      },
+      {
+        value: ForceValuesDisplayEnum.SCIENTIFIC,
+        createNode: tandem => new Text( scientificNotationString, merge( {}, ISLCConstants.UI_TEXT_OPTIONS, {
+          tandem: tandem.createTandem( TEXT_TANDEM_NAME )
+        } ) ),
+        tandemName: 'scientificNotationRadioButton',
+        options: {
+          accessibleName: scientificNotationString
+        }
+      },
+      {
+        value: ForceValuesDisplayEnum.HIDDEN,
+        createNode: tandem => new Text( hiddenString, merge( {}, ISLCConstants.UI_TEXT_OPTIONS, {
+          tandem: tandem.createTandem( TEXT_TANDEM_NAME )
+        } ) ),
+        tandemName: 'hiddenRadioButton',
+        options: {
+          accessibleName: hiddenString
+        }
+      }
+    ];
+    const radioButtonGroup = new VerticalAquaRadioButtonGroup( forceValuesDisplayProperty, radioButtonContent, {
+      accessibleName: forceValuesString,
+      accessibleHelpText: forceValuesHelpTextString,
+      tandem: forceValuesGroupTandem
+    } );
+
+    options.children = [
+      new Text( forceValuesString, merge( {}, ISLCConstants.UI_TEXT_OPTIONS, {
+        font: new PhetFont( { size: 14, weight: 'bold' } ),
+        tandem: options.tandem.createTandem( 'forceValuesText' )
+      } ) ),
+      radioButtonGroup
+    ];
+    super( options );
+  }
+}
+
+export default ISLCForceValuesDisplayControl;
